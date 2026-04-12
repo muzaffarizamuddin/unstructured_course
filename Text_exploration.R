@@ -11,7 +11,7 @@ grep(pattern="stat",x=ww) #x is the document, will return the location only
 grep(pattern="stat",x=ww,ignore.case=T) #ignore the capital/small letter, will return the location only
 grep(pattern="stat",x=ww,ignore.case=T,value=T) #ignore the capital/small letter, return to that particular words
 
-#2nd function - grepl() - give logical expression
+#2nd function - grepl() - give logical expression (l is for logic)
 grepl(pattern="stat",x=ww) #Return true/false
 grepl(pattern="stat",x=ss)
 
@@ -19,6 +19,7 @@ grepl(pattern="stat",x=ss)
 #return a vector of two attributes; position of the first match and its length
 #if not, it returns -1
 regexpr(pattern="stat",ww)
+regexpr(pattern="stat",ww,ignore.case=T)
 regexpr(pattern="stat",ss)
 
 #4th function - gregexpr()
@@ -26,6 +27,7 @@ gregexpr(pattern="stat",ss)
 
 #5th function - regexec()
 regexec(pattern="(st)(at)",ww)
+regexec(pattern="(st)(at)",ss)
 
 #6th function - sub()
 sub("stat","STAT",ww,ignore.case=T)
@@ -35,6 +37,8 @@ sub("stat","STAT",ss,ignore.case=T)
 gsub("stat","STAT",ss,ignore.case=T)
 
 
+#-----------------------------------------
+install.packages('stringr')
 library(stringr)
 words #dataset related to words
 fruit #dataset fruit available in package stringr
@@ -61,7 +65,7 @@ str_to_title(x)
 
 #Note: str_view give the output in another browser
 str_view(fruit,"an") #view the pattern (for the first time) of dataset 
-str_view_all(fruit,"an") #view all pattern (including repeated observation)
+str_view_all(fruit,"an") #view all pattern (including none observation and repeated observation)
 
 # "." refers to anything
 str_view(fruit,".a.") #refers to dataset fruit, find any fruit that have letter a
@@ -75,6 +79,7 @@ str_view(x,"a$")
 str_view(fruit,"^a") #find the fruit that has first word "a" in fruit dataset
 str_view(fruit,"a$") #find the fruit that has end word "a" in fruit dataset
 str_view_all(fruit,"^...$") #find the fruits with 3 character(letter), doesn't matter what letter as a start and end
+str_view(fruit,"^...$")
 
 #Note:\\b-boundary, \\d-digits, \\s-white space (space,tab,newlines).
 ee<-c("sum","summarize","rowsum","summary")
@@ -90,7 +95,8 @@ str_view(ss,"\\s") #Find any sentences that have white space
 
 str_view_all(fruit,"[abc]") #[abc] match to all a/b/c. Can also use "(a|b|c)"
 str_view_all(fruit,"^[abc]") #any fruit that is started with any a/b/c
-str_view_all(fruit,"^(g|h)")
+str_view(fruit,"^[art]") #any fruit that is started with any a/b/c
+str_view(fruit,"^(g|h)")
 
 #repetition
 #? means 0 or 1 repetition
@@ -109,6 +115,8 @@ str_view_all(ex,"de+") #Find d and e, the letter e can be once or more
 str_view_all(ex,"de+?") #Find d and e, and gives the shortest
 str_view_all(ss,"\\d+") #Find digits at least once
 str_view_all(ss,"\\d{2,}") #Find digits, 2 times or more
+str_view(fruit,"(..)\\1")
+str_view(fruit,"s.+(r)\\1")
 
 #grouping and backreferencing
 str_view(fruit,"(a).\\1") #Find a, after a any letter (one dot=one letter),then repeat a once
@@ -129,11 +137,26 @@ fruit[5] #just check the fruit no 5
 str_replace(fruit,"^a","A") #replace a with capital letter A
 str_replace_all(fruit, c("^a"="A", "^e"="E")) #replace a with capital letter A, e with E
 
+#####
+##TRY MORE
+eg1<-read.table(file.choose(),fill=T,header=F) #Data CG.txt
+eg4<-t(eg1) #From example 1
+a<-sapply(1:ncol(eg4),function(x)
+	trimws(paste(eg4[,x],collapse=" "),"right"))
+a
+str_view(a,"\\bthe\\b")
+str_view(a,"\\bThe\\b")
 
 #####
+
+
 #Other function
 library(stringr)
 library(tidyverse)
+
+
+
+
 
 a<-"Hello World"
 a<-'Hello World'
@@ -148,6 +171,7 @@ library(tm)
 #docs<-VCorpus(VectorSource(sentences))
 docs<-Corpus(VectorSource(sentences))
 
+as.character(docs[[30]])
 writeLines(as.character(docs[[30]]))
 
 getTransformations()
