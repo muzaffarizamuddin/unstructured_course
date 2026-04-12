@@ -77,14 +77,21 @@ as.character(mycorpus[[4]])
 
 eg6<-readLines("https://en.wikipedia.org/wiki/Data_science")
 eg6[grep("\\h2",eg6)]
+eg6[grep("\\h3",eg6)]
 eg6[grep("\\p",eg6)] #paragraph
 #Using library XML
 library(XML)
 doc<-htmlParse(eg6)
 doc.text<-unlist(xpathApply(doc,'//p',xmlValue))
 unlist(xpathApply(doc,'//h2',xmlValue))
+unlist(xpathApply(doc,'//h3',xmlValue))
+
 #Using library httr
+install.packages("httr")
+library(httr)
 eg7<-GET("https://www.edureka.co/blog/what-is-data-science/")
+# This ignores the loading error and pulls the function directly from the package
+eg7 <- httr::GET("https://www.edureka.co/blog/what-is-data-science/")
 doc<-htmlParse(eg7)
 doc.text<-unlist(xpathApply(doc,'//p',xmlValue))
 
@@ -93,18 +100,51 @@ doc.text<-unlist(xpathApply(doc,'//p',xmlValue))
 install.packages('rvest')
 library(rvest)
 eg8<-read_html("https://www.edureka.co/blog/what-is-data-science/")
-nodes<-html_nodes(eg8,'.color-4a div span , .btn-become-profesional-link+ p')
+nodes<- html_nodes(eg8,'p')#from selector gadget chrome extension
+nodes<- html_nodes(eg8,'li , p')#from selector gadget
+nodes<-html_nodes(eg8,'.color-4a :nth-child(1)')
 texts<-html_text(nodes)
+
+
+#selecting multiple pages
+
+pages<- paste0('-----paste sini------&page=',0:4)
+
+pages<- paste0('https://www.amazon.com/s?k=skincare&crid=5UO7R74TKGO1&sprefix=skinca%2Caps%2C318&ref=nb_sb_noss_2&page=',0:4)
+eg11<-read_html(pages[3])
+nodes<-html_nodes(eg11,'.a-text-normal , .a-price-whole')
+texts<-html_text(nodes)
+
+
+
 #Selecting multiple pages
 pages<-
 paste0('https://www.amazon.co.jp/s?k=skincare&crid=28HIW1TYLV9UM&sprefix=skincare%2Caps%2C268&r
 ef=nb_sb_noss_1&page=',0:9)
 eg10<-read_html(pages[1])
-nodes<-html_nodes(eg10,'.a-price-whole')
-texts<-html_text(nodes)
+
 Price<-function(page){
-url<-read_html(page)
-nodes<-html_nodes(url ,'.a-price-whole ')
-html_text(nodes)}
+	url<-read_html(page)
+	nodes<-html_nodes(url ,'.a-price-whole ')
+	html_text(nodes)}
 sapply(pages,Price)
 do.call("c",lapply(pages,Price))
+
+
+
+
+
+#-------------------- EXTRA NOTES ONLY ------------
+library(httr)
+library(rvest)
+# Define a "User-Agent" (this tells Amazon you are using Chrome on Windows)
+my_headers <- httr::add_headers(`User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
+
+# This removes all newline characters (\n) from your pages list
+pages_1 <- gsub("\n", "", pages)
+response <- httr::GET(pages_1[1], my_headers)
+
+httr::status_code(response)
+eg10 <- read_html(response)
+#--------------------------------------------------
+
