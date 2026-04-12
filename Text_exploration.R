@@ -176,7 +176,7 @@ writeLines(as.character(docs[[30]]))
 
 getTransformations()
 
-#Create custom transformation
+#Create custom transformation, pattern as input, subtitute with whitespace
 toSpace<-content_transformer(function(x,pattern){return(gsub(pattern," ",x))})
 
 as.character(docs[[133]]) #check line 133 
@@ -189,20 +189,46 @@ docs<-tm_map(docs,removeNumbers)
 docs<-tm_map(docs,removeWords,stopwords("english")) #remove stop words
 
 as.character(docs[[2]])
-
+words_to_remove <- c("gp","rert","uff") #to remove many at once
 docs<-tm_map(docs,removeWords,"gp")
 docs<-tm_map(docs,stripWhitespace)
+as.character(docs[[701]])
+
+#####-----------Stemming----------------------
 
 library(SnowballC)
 docs2<-tm_map(docs,stemDocument) #for stemming the documents
+inspect(docs2)
 
+
+#----Lemmatize----
 library(textstem)
-docs3<-stem_strings(docs)
-a<-unlist(str_split(docs3,"[,]"))
-docs4<-lemmatize_strings(docs)
-b<-unlist(str_split(docs4,"[,]"))
+docs3<-tm_map(docs,lemmatize_strings)
+inspect(docs3)
 
-dtm<-DocumentTermMatrix(docs)
+as.character(docs[[1]])
+as.character(docs2[[1]])
+as.character(docs3[[1]])
+
+as.character(docs[[20]])
+as.character(docs2[[20]])
+as.character(docs3[[20]])
+
+as.character(docs[[479]])
+as.character(docs2[[479]])
+as.character(docs3[[479]])
+
+as.character(docs[[55]])
+as.character(docs2[[55]])
+as.character(docs3[[55]])
+
+as.character(docs[[69]])
+as.character(docs2[[69]])
+as.character(docs3[[69]])
+
+
+
+dtm<-DocumentTermMatrix(docs3)
 inspect(dtm[1:2,1:100])
 freq<-colSums(as.matrix(dtm))
 length(freq)
@@ -210,8 +236,8 @@ ord<-order(freq,decreasing=T)
 head(ord)
 freq[head(ord)]
 
-dtm<-DocumentTermMatrix(docs,control=list(wordLengths=c(2,20),
-                                          bounds=list(global=c(2,30))))
+dtm<-DocumentTermMatrix(docs3,control=list(wordLengths=c(2,20),  		#only words with 2-20 letters	
+                                          bounds=list(global=c(2,30))))#remove frequency 1 words
 inspect(dtm[1:2,1:100])
 freq<-colSums(as.matrix(dtm))
 length(freq)
@@ -225,37 +251,72 @@ names(wf)<-c("TERM","FREQ")
 head(wf)
 
 findFreqTerms(dtm,lowfreq=10)
-findAssocs(dtm,"get",0.3)
+findAssocs(dtm,"get",0.2)
+findAssocs(dtm,"will",0.1)
 
 library(ggplot2)
-Subs<-subset(wf,FREQ>=10)
+Subs<-subset(wf,FREQ>=8)
 ggplot(Subs,aes(x=TERM,y=FREQ))+geom_bar(stat="identity")+
-  theme(axis.text.x=element_text(angle=45,hjust=1))
+  theme(axis.text.x=element_text(angle=90,hjust=1))
 ggplot(wf,aes(x=TERM,y=FREQ))+geom_bar(stat="identity")+
   theme(axis.text.x=element_text(angle=45,hjust=1)) #Show all, include terms that hv small freq
 
 library(wordcloud)
 wordcloud(names(freq),freq) #in general
 wordcloud(names(freq),freq.min.freq=10) #if we want to focus on the min freq of 10
-wordcloud(names(freq),freq,colors=brewer.pal(8,"Darker"))
+wordcloud(names(freq),freq,colors=brewer.pal(8,"Dark2"))
 wordcloud(names(freq),freq,colors=brewer.pal(12,"Paired"))
+
+display.brewer.all()
+wordcloud(names(freq),freq,colors=brewer.pal(12,"Spectral"))
+wordcloud(names(freq),freq,colors=brewer.pal(12,"BrBG"))
 
 library(wordcloud2)
 wordcloud2(wf)
 wordcloud2(wf,size=0.5)
 wordcloud2(wf,size=0.5,color="random-light",backgroundColor="black")
 wordcloud2(wf,shape="star",size=0.5)
-wordcloud2(wf,figPath="love.png",color="skyblue",backgroundColor="black")
+wordcloud2(wf,shape="horse",size=0.5)
+wordcloud2(wf,figPath="love.png",color="skyblue",backgroundColor="black") #follow a specified shape
 #wordcloud2(wf,figPath="cat.png",color="skyblue",backgroundColor="black")
 
 letterCloud(wf,word="R",color="random-light",backgroundColor="black")
 letterCloud(wf,word="SDA",color="random-light",backgroundColor="black")
 
+##########################
+##----Exercise------------
+##----continue this-------
+##########################
+
+eg1<-read.table(file.choose(),fill=T,header=F) #Data CG.txt
+eg4<-t(eg1) #From example 1
+a<-sapply(1:ncol(eg4),function(x)
+	trimws(paste(eg4[,x],collapse=" "),"right"))
+mytext<-VectorSource(a)
+mycorpus<-Vcorpus(mytest)
+
+docs_1 <- tm_map(mycorpus,toSpace,"-")  #try this
+docs_1 <- tm_map(docs,removePunctuation)
+docs_1 <- tm_map(docs,content_transformer(tolower))
+docs_1 <- tm_map(docs,removeNumber)
+docs_1 <- tm_map(docs,removeWords,stopwords("english"))
+remove_words<-c("ayam","itik")
+docs_1 <- tm_map(docs,removeWords,remove_words)
+docs_1 <- tm_map(docs,stripWhitespace)
 
 
 ###########################
+#------NOT REQUIRED--------
+###########################
+
 library(textstem)
 docs3<-stem_strings(docs)[1]
 a<-unlist(str_split(docs3,"[,]"))
 docs4<-lemmatize_strings(docs)[1]
+b<-unlist(str_split(docs4,"[,]"))
+
+
+docs3<-stem_strings(docs)
+a<-unlist(str_split(docs3,"[,]"))
+docs4<-lemmatize_strings(docs)
 b<-unlist(str_split(docs4,"[,]"))
