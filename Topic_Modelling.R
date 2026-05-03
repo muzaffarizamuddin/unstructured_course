@@ -93,6 +93,7 @@ docs <- tm_map(mycorpus, removeNumbers)
 docs <- tm_map(docs, removePunctuation)
 docs <- tm_map(docs, content_transformer(tolower))
 docs <- tm_map(docs, removeWords, stopwords("english"))
+docs <- tm_map(docs, removeWords, c("can","will","however","one"))
 docs <- tm_map(docs, stripWhitespace)
 
 inspect(docs[[1]])
@@ -108,7 +109,7 @@ ap_lda<-LDA(dtm,k=2,control=list(seed=1234)) #create two-topic LDA model ### mus
 ap_topics<-tidy(ap_lda,matrix="beta") #Extract the per-topic-per-word-probabilities
 
 #Find terms that are most common within each topics
-ap_top_terms <- ap_topics %>% group_by(topic) %>% top_n(20,beta) %>% ungroup () %>% arrange (topic, -beta)
+ap_top_terms <- ap_topics %>% group_by(topic) %>% top_n(30,beta) %>% ungroup () %>% arrange (topic, -beta)
 ap_top_terms%>% mutate(term=reorder(term,beta))%>%
 ggplot(aes(term,beta,fill=factor(topic)))+geom_col(show.legend=FALSE)+
 facet_wrap(~topic,scales="free")+coord_flip() #visualize the above
@@ -120,6 +121,15 @@ filter (topic2>0.003 | topic3 >0.003) %>% mutate(log_ratio = log2(topic3/topic2)
 beta_spread%>% mutate(term=reorder(term,log_ratio))%>%
 ggplot(aes(term,log_ratio))+geom_col(show.legend=FALSE)+coord_flip()
 
+tm_documents<-tidy(ap_lda,matrix="gamma") #Extract the per-document-per-topic-probabilities
+
+tm_documents
+print(n=20,tm_documents)
+
+tm_documents %>% filter(topic==2)
+
+tidy(dtm)%>%filter(document=="bigdata.txt")%>%
+	arrange(desc(count)) #Check the most common words in the document, eg document 6
 
 
 
