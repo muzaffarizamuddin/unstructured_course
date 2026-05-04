@@ -1,0 +1,909 @@
+Step 0 Prompt:
+{{MASKED_13}}
+Current time is Thursday, April 30, 2026 at 05:55 PM GMT+08:00 (Asia/Kuala_Lumpur).
+
+Remember the current location is Malacca City, Melaka, Malaysia.
+
+The user is seeking up-to-date information.
+
+
+
+Remember to respond in the interface language (en-MY) or another language dictated by the query intention.
+
+# Your input:
+
+## User Search and Conversation History:
+### Within one week:
+word counter malay
+word counter malay
+word counter malay
+plagiarism checker
+U S Embassy Israel
+raya 2026
+vscode
+UOA city mall
+google map
+in NX how do i print multiple sheets into one pdf
+does fitgirl repack work with IGG game update baldurs gate
+how do i check if my baldur gate is RUNE
+fit girl baldur gate update
+baldur gate fitgirl
+photorec
+elegoo
+elegoo 16k saturn 4 ultra
+elegoo 12k saturn 4 ultra
+ipx5
+for 3d printing what format is needed stl step or x t
+postman download
+dropbox
+tp04
+invitop
+chatgpt
+chatgpt
+translate english to malay
+artikel bahasa melayu
+artikel bahasa melayu sambutan hari raya
+tahun 1990 an
+mbpj
+dinosaur in malay
+dinosaur
+dinosaur in malay
+dinosaur in malaysia
+malaysia dinosaur fossil
+dinosaur in malay
+translate english to malay
+majlis perbandaran sepang
+majlis perbandaran
+majlis bandaraya
+masa skrin
+word counter malay
+sedentari maksud
+hawa dingin
+chatgpt
+chatgpt
+translate english to malay
+herbivor maksud
+herbivore
+Detrivor
+translate english to malay
+zaman pemerintahan british di tanah melayu
+filem nabila huda
+duhai si pari pari sinopsis
+translate english to malay
+DapurPA
+Sambal Nyet Berapi
+Khairul Aming Spice
+adakah bisnes perkataan
+pempengaruh media sosial
+konsisten maksud
+kapasiti maksud
+logistik maksud
+viral maksud
+momen maksud
+staf maksud
+anugerah tiktok malaysia 2023
+anugerah tiktok malaysia 2023
+kumpulan kru
+sejarah seni tenun songket berbenang emas
+fibrik maksud
+eksklusiviti maksud
+trend maksud
+translate english to malay
+kontemporari maksud
+which one is patch 8 bg3
+which one is patch 8 bg3 version number
+can i update from path 7 to patch 8 without reinstalling bg3
+can i update from 6072089 direct to 6995620 bg3
+6758295 bg3
+baldur gate patch 8 update
+fit girl baldur gate update
+does 6758295 bg3 update need something like patch 7 and exe file that manage the updatre
+what version number is patch 8 bg3
+what version number is patch 8 bg3
+in shapr3d how do i add a critical dimension symbol in a note
+waktu solat
+poco gemini your device isnt compatible with this version
+MIUI A15 0 20 0 is this android version
+I want to check my phone is a good edition
+data annotation
+audacity download
+aternos
+smhub
+how to strikethrough in excel
+plume
+plume jti
+how to clear pin measurement shapr3d
+triangle empty inside
+triangle empty inside typed
+how to add a triangle with number inside shapr3d
+how to add a triangle with number inside shapr3d drawing
+how to add a triangle with number using note inside shapr3d drawing
+how to host minecraft server from pc
+how to host minecraft server from pc but the original file is on ipad
+bedrock dedicated server
+microsoft account
+ukmfolio
+anas airdroitech
+github johndoe
+github johndoe
+github
+how do i save a open source github i might use later
+github desktop
+jupyter notebook
+anaconda
+install anaconda and run jupyter notebook locally
+feat that counts strength modifier twice for two handed sword bg3
+smlight
+dusuniot DSGW 210
+dusuniot DSGW 90
+dusuniot DSGW 30
+dusun mayit
+dusuniot DSGW 210
+Sonoff ZB Bridge ultra
+lifesmart smart station pro
+Defed Smart Station lifesmart
+smart station pro
+black box
+black box
+SI4432
+SI4432 can this be used for zigbee or thread
+is Tyso making money this year
+australia public holiday
+efiling
+how to close pop up blocker
+is preply badan yang diiktiraf untuk pelepasan cukai
+rm3000 caruman persaraan swasta asb dikira ke
+gmail
+google colab
+translate english to malay
+alokasi maksud
+how to hide excel top bar
+youtube
+youtube
+strikethrough in excel
+translate english to malay
+jembatan meaning
+translate english to malay
+maglev train shanghai speed
+how fast is china hsr
+translate english to malay
+kritis maksud
+diacritics meaning
+hallucinates an incorrect translation meaning
+translate english to malay
+translate english to malay
+framework in malay
+meet google com nod xzfy jkh
+searching on kickass doesnt search go straight to what we type
+gmail sign in
+translate english to malay
+ambari ova
+ambari ova download
+garand toolbox
+garand toolbox with inventory tracking
+toolbox with inventory tracking
+toolbox with inventory tracking garand
+toolbox inventory tracking
+equipment and tool inventory tracking
+lab toolbox with inventory tracking
+lab toolbox with inventory tracking garant
+garant tool24
+malaysia air quality data
+aqicn org historical city kuala lumpur
+polyaire australia
+Sonoff ZBBridge Ultra
+dropbox
+devops
+slack
+slack download
+dropbox
+last sermon of the prophet in english
+selector gadget
+datadog
+usd to myr
+usd to myr
+how to transfer money from paypal to bank account
+how to transfer money from paypal to bank account with good rate
+can i transfer money from paypal to wise
+can i transfer money from paypal to wise does it cost money
+airtouch
+google user history
+translate english to malay
+translate english to malay
+[conversation] Apa nombor insurans pergigian saya | Apa nombor insurans pergigian saya
+translate english to malay
+[conversation] Cadangkan produk untuk legakan alergi
+translate english to malay
+[conversation] Cadangkan jenis jenis sumber tenaga untuk rumah saya
+translate english to malay
+[conversation] Apa yang awak boleh katakan tentang tahap kesihatan saya sekarang
+[conversation] Apa amalan agama saya
+[conversation] Saya berasal dari negara mana
+[conversation] Bila saya dilahirkan
+smpe
+## User Profiles Summarized From Search History:
+
+## User Profiles Summarized From Email History and Photos:
+Profile from DATA_SOURCE_USER_PROFILE_GMAIL:
+# CATEGORY_DINING:
+## Culinary Preferences
+* **Malaysian and South Asian Flavors**: The user consistently selects Malaysian and South Asian dishes for travel, including chicken biryani, curry puffs, and Pak Nasser's Nasi Lemak.
+* **Recurring Dish Preferences**: There is a documented pattern of the user pre-ordering Bukhara Chicken Biryani and Pak Nasser's Nasi Lemak for air travel on multiple occasions between June 2024 [around 2 years ago] and October 2025 [around 6 months ago].
+* **Steak and Seafood**: The user established a membership with Kay's Steak & Lobster on February 13, 2025 [around 1 year ago].
+* **Cafe and Bakery**: The user redeemed a reward for a Secret Recipe e-voucher on July 19, 2024 [around 2 years ago].
+## Dietary Profile & Restrictions
+* **Halal Compliance**: The user adheres to Halal dietary standards, as evidenced by a restaurant reservation on November 7, 2025 [around 6 months ago], which explicitly restricted non-Halal food.
+* **Interest in Religious Dietary Laws**: The user has shown an interest in religious dietary guidelines and viewpoints on alcohol consumption, receiving informational digests on Islamic dietary laws in June 2024 [around 2 years ago] and religious perspectives on alcohol in May 2024 [around 2 years ago].
+## Eating Habits & Lifestyle
+* **Social and Family Dining**: The user frequently coordinates dining for groups, managing meal requests for travel with three other family members on dates such as August 16, 2025 [around 9 months ago], and September 10, 2025 [around 8 months ago].
+* **Meal Planning for Dependents**: The user managed meal-inclusive educational packages for family members at an educational center throughout the first half of 2025 and into August 2025 [around 8 months ago].
+* **Specialized Dining Experiences**: The user scheduled specialized dining activities, such as a floating breakfast and a romantic dinner, during a stay in Bali in November 2025 [around 5 months ago].
+* **Outdoor and Social Coordination**: The user inquired about booking a BBQ area for social use on February 20, 2024 [around 2 years ago].
+* **Dining Schedule**: The user has made restaurant reservations during the mid-afternoon, such as a booking for 2:15 PM on November 7, 2025 [around 6 months ago].
+* **Coffee and Beverage Preferences**: The user utilizes mobile applications for coffee services and frequently includes Americano coffee as a pre-ordered add-on for travel as seen on October 23, 2025 [around 6 months ago].
+## Restaurant Preference
+* **The Great Chase**: The user made a reservation for two people at this establishment for November 7, 2025 [around 6 months ago].
+* **Kay's Steak & Lobster**: The user joined this restaurant's loyalty program on February 13, 2025 [around 1 year ago].
+* **Coffee Bean and Tea Leaf**: The user accessed mobile services for this chain on May 26, 2025 [around 11 months ago].
+* **Secret Recipe**: The user redeemed a reward voucher for this establishment on July 19, 2024 [around 2 years ago].
+* **AirAsia Santan**: The user frequently utilizes this airline catering service, pre-ordering specific meals for flights between June 2024 [around 2 years ago] and October 2025 [around 6 months ago].
+* **Tanadewa Villas Nusa Dua Bali**: The user engaged with dining services at this location, including specialized breakfast and dinner arrangements, in November 2025 [around 5 months ago].
+## Preferred Delivery Services
+* **Grab**: The user is registered for Grab services, which include GrabFood delivery, as of February 19, 2026 [around 2 months ago].
+## Evolving Tastes & Recent Trends
+* **Chinese Cultural Interest**: The user has demonstrated a sustained interest in Chinese culture, which includes reviewing educational notes on Chinese dinner party customs on July 15, 2025 [around 10 months ago], and participating in Chinese language classes as of February 3, 2026 [around 3 months ago].
+# CATEGORY_TRAVEL:
+## Travel Style & Interests
+* The user engages in cultural and historical exploration, as evidenced by bookings at boutique courtyard accommodations in Lijiang and Dali, and design hotels near West Lake in Hangzhou.
+* Destination preferences include major metropolitan centers across Southeast Asia and China, such as Singapore, Kuala Lumpur, Shanghai, and Beijing.
+* The user seeks relaxation and leisure experiences, confirmed by stays at villa collections in Bali, waterpark resorts in Melaka, and residence stays at leisure parks.
+* The user participates in regional touring involving multi-city itineraries, particularly within China, utilizing high-speed rail to connect various cultural hubs like Shanghai, Suzhou, and Hangzhou.
+* A component of the user's travel is dedicated to business purposes, specifically noted for a stay in Singapore in October 2025 [around 6 months ago].
+## Travel Constraints & Dealbreakers
+* The user manages travel across a broad budgetary spectrum, frequently utilizing low-cost carriers for regional flights while opting for mid-range to upscale hotel accommodations.
+* A non-negotiable preference for many stays is the inclusion of breakfast with the hotel booking.
+* The user is diligent regarding international travel requirements, proactively managing visa-free inquiries for China and submitting electronic arrival cards for Singapore, Indonesia, and Malaysia.
+* The user maintains valid electronic visit passes for entry into Singapore, such as a 30-day pass issued on May 26, 2024 [around 2 years ago].
+* Travel planning often includes a requirement for 2nd class seating for group train journeys in China.
+* When visiting cities like Shanghai, the user manages specific local regulations, such as restrictions on disposable toiletries in hotels.
+## Travel Habits & Logistics
+* Trip durations vary from short overnight stays for city visits or business to extended multi-week itineraries for international tours.
+* The user maintains a high frequency of travel between Kuala Lumpur and Johor Bahru, alternating between bus services and short-haul flights.
+* Travel is frequently conducted with multiple companions, including family members and children.
+* The user consistently organizes logistics in advance, including pre-booking train tickets and arranging professional airport transfer services.
+* The user responds to flight rescheduling or delays by airlines, such as notifications from AirAsia in March 2025 [around 1 year ago] and China Southern in September 2025 [around 7 months ago], by reviewing alternative options or confirming new itineraries through provided support channels.
+* The user utilizes online check-in services and monitors flight status through automated notifications for carriers like Malaysia Airlines and China Southern Airlines.
+## Flight & Hotel Preferences
+* The user shows a strong preference for AirAsia and Malaysia Airlines for regional travel within Malaysia and to neighboring countries.
+* For international travel to China, the user utilizes full-service carriers such as Cathay Pacific and China Southern Airlines.
+* Accommodation preferences favor properties that offer local character or convenience, including boutique courtyards, service apartments, and established brands like Four Points by Sheraton, Westin, and St. Giles.
+* The user has stayed at boutique-style hotels such as Muo Boutique Hotel in Muar and Jinjiang Metropolo Hotel Classiq in Shanghai.
+* While the user typically books economy class, they have engaged with seat upgrade offers for Malaysia Airlines flights.
+* The user prefers pre-arranged airport transfers, often specifying language requirements for drivers such as Mandarin or English.
+## Preferred Booking Platforms & Loyalty Programs
+* The user's primary platform for a wide range of bookings—including flights, hotels, trains, and transfers—is Trip.com.
+* For hotel-specific bookings, the user frequently utilizes Agoda.
+* Bus travel within Malaysia is consistently arranged through the Easybook platform.
+* The user is a member of the Marriott Bonvoy hotel loyalty program.
+* The user maintains membership in the St. Giles Hotels CHM Club loyalty program.
+* Aviation loyalty memberships include Enrich by Malaysia Airlines and Asia Miles by Cathay Pacific.
+* The user monitors status points and membership renewals for the Cathay program, with a status tracker active for the 2027 membership year.
+## Travel History & Favorite Destinations
+* **China**
+* Shanghai: Stays and transfers scheduled for September 2024 [around 2 years ago], October 2024 [around 1 year ago], November 2024 [around 1 year ago], and January 2025 [around 1 year ago].
+* Beijing: Stay and train travel scheduled for October 2024 [around 1 year ago] and November 2024 [around 1 year ago].
+* Suzhou: Train travel and airport transfers scheduled for October 2024 [around 1 year ago], November 2024 [around 1 year ago], and January 2025 [around 1 year ago].
+* Hangzhou: Stay and train travel scheduled for January 2025 [around 1 year ago].
+* Lijiang: Stay, flights, and train travel scheduled for September 2025 [around 7 months ago].
+* Dali: Stay and train travel scheduled for September 2025 [around 7 months ago].
+* Shangri-La: Stay and train travel scheduled for September 2025 [around 7 months ago].
+* Shenzhen: Transit and flights scheduled for September 18, 2025 [around 7 months ago].
+* **Malaysia**
+* Kuala Lumpur: Numerous stays and flights scheduled throughout 2025 and into March 2026 [around 1 month ago].
+* Johor Bahru: Frequent travel by air and bus scheduled throughout 2025, including a stay from February 3 [around 1 year ago] to February 5, 2025 [around 1 year ago].
+* Melaka: Stay scheduled for January 30 [around 1 year ago] to January 31, 2025 [around 1 year ago].
+* Muar: Stays scheduled for April 11 [around 1 year ago] to April 13, 2025 [around 1 year ago].
+* Selangor: Stay at Gamuda Cove scheduled for April 4 [around 1 year ago] to April 6, 2025 [around 1 year ago].
+* **Indonesia**
+* Bali: Stay at Nusa Dua scheduled from November 28 [around 5 months ago] to December 1, 2025 [around 5 months ago].
+* **Singapore**
+* Stay for business and transit scheduled for May 2024 [around 2 years ago], June 2024 [around 2 years ago], and October 2025 [around 6 months ago].
+* **Thailand**
+* Phuket: Trip scheduled from September 14 [around 2 years ago] to September 18, 2024 [around 2 years ago].
+# CATEGORY_LOCAL:
+## Local Commerce Philosophy
+The user manages multiple residential properties across different regions, including Ember City in Cyberjaya, the Bandar Putra Kulai area of Johor, and the Bangsar South area of Kuala Lumpur. This oversight suggests a systematic approach to local services and utility management across disparate locations. The user values transparency and efficiency in these interactions, frequently advocating for consolidated billing and modern, app-based payment systems. Furthermore, the user is proactive in addressing service quality, such as seeking rebates when telecommunications performance does not meet agreed-upon standards. There is a clear effort to transition away from manual, email-based property administrative tasks in favor of centralized digital portals to ensure smoother oversight of maintenance fees.
+## Key Priorities & Non-Negotiables
+* **Digital Payment Infrastructure**: The user consistently requests the enablement of digital payment options like auto-debit, credit card facilities, and integrated mobile apps to streamline recurring property management fees.
+* **Service Quality Accountability**: When local services fail to meet expectations, specifically regarding home internet speeds, the user initiates formal complaints and seeks financial compensation.
+* **Documentation and Verification**: A high priority is placed on obtaining official receipts and statements of account immediately following financial transactions to maintain clear records.
+* **Residential Safety and Compliance**: The user adheres to and monitors residential house rules, such as those regarding facility usage, traffic safety, and pest control schedules.
+* **Punctuality and Penalty Avoidance**: Decision-making is influenced by statutory deadlines and payment schedules, with the user taking action to settle property taxes and tuition fees within specified timeframes to avoid structured late payment charges.
+## Engagement Habits & Patterns
+* **Routine Utility Oversight**: The user maintains a consistent monthly habit of reviewing and settling bills for electricity, water, and sewerage services across multiple accounts.
+* **Specialized Residential App Usage**: The user utilizes property-specific mobile applications to manage daily residential tasks such as facility booking, visitor pass generation, and receiving management notices.
+* **Continuous Professional Monitoring**: There is a steady pattern of utilizing employment platforms to track job opportunities and career events within the engineering and management sectors in Malaysia.
+* **Education and Investment Tracking**: The user manages recurring monthly tuition payments for children attending educational programs and regularly monitors investment income distribution statements.
+* **Property Administrative Management**: There is an established pattern of managing property-related legalities and service charges, including quarterly settlements for sinking funds and service fees.
+## Trusted Local Providers & Establishments
+* **Residential Management Services**: Property management is handled through UOA Properties Group, UOA Services, and Persatuan AACV.
+* **Utility Providers**: Electricity is sourced from Tenaga Nasional Berhad, while water and sewerage services are provided by Air Selangor and Indah Water Konsortium.
+* **Telecommunications and Internet**: The user relies on Time Fibre, Unifi (Telekom Malaysia), U Mobile, and Maxis for connectivity.
+* **Financial and Insurance Providers**: Local insurance, credit, and investment services are managed through Prudential BSN Takaful, AEON Credit Service, Maybank, and Amanah Saham Bumiputera (ASNB).
+* **Education**: The user utilizes services from the CIC educational institution, specifically the Presint 9 center in Cyberjaya.
+* **Government & Statutory Bodies**: The user engages with Dewan Bandaraya Kuala Lumpur (DBKL) for assessment taxes, Pejabat Pengarah Tanah dan Galian Wilayah Persekutuan Kuala Lumpur (PTGWP) for land taxes, and Lembaga Hasil Dalam Negeri (LHDN) for tax-related information.
+* **Contractors and Professional Services**: The user has engaged Kayel Home Sdn Bhd for property inspections and Philip Ting & Kwan for legal and conveyancing services.
+## Preferred Platforms & Community Tools
+* **i-KJPM**: This residential app is the user's primary tool for managing communications, billing, and services within a Cyberjaya-based residence.
+* **myTNB**: The user regularly uses this platform for the digital management and payment of electricity accounts.
+* **MyFutureJobs**: This portal is a frequently used resource for discovering career opportunities and local job fairs.
+* **MyUnifi**: The user utilizes this app to monitor internet service status and manage package upgrades.
+* **Grab and Didi**: These platforms are used for local transportation and ride-tracking services.
+* **EzBiz**: The user registered for this portal to handle business-related registration tasks with the Malaysian government.
+* **Government Tax Portals**: The user utilizes Dbayar, Pay@KL, and eTanahKL for the digital management and payment of assessment and land taxes in Kuala Lumpur.
+* **Financial and Property Portals**: The user accesses the MyASNB portal for investment management and the UOA Services Web Portal for property billing and statements.
+* **Bukku**: This cloud accounting platform is used for receiving and viewing official receipts from residential associations.
+## Local Projects
+* **Property Maintenance and Inspection**: The user oversaw an inspection and rectification project for a residential unit in Ember City in Cyberjaya in October 2025 [around 6 months ago], and scheduled a joint unit inspection with a contractor in April 2024 [around 2 years ago].
+* **Legal Property Transfer**: The user managed the perfection of transfer and charge for a property in Cyberjaya in April 2024 [around 2 years ago].
+* **Insurance Claim Processing**: The user managed a fire insurance claim for a property in the Bandar Putra Kulai area of Johor in June 2024 [around 2 years ago].
+* **Community Facility Booking**: The user engaged in booking local residential facilities in March 2026 [around 1 month ago], including the management of deposit refunds.
+* **Custom Glass Bottle Inquiry**: The user researched local production capabilities for custom glass bottles, including providing design files for quotes in June 2025 [around 10 months ago].
+* **Environmental Participation**: The user showed interest in a "Waste to Treasure" upcycling workshop organized by a local property developer in May 2025 [around 11 months ago].
+# CATEGORY_SHOPPING:
+## Product & Style Preferences
+The user frequently purchases items in the electronics and smart home categories, including mobile devices, power banks, and various adapters. Smart home infrastructure is a specific area of interest, with acquisitions such as remote control systems, power monitoring switches, and inquiries into smart hub technology. Home improvement and maintenance products are also prominent in the user's shopping history, particularly window security hardware, soundproofing insulation, and television mounting equipment.
+The user actively supports personal hobbies through online purchases, specifically for 3D printing and music. 3D printing activities are evidenced by the acquisition of specialized LCD display screens and multiple types of PLA filaments. Musical interests are centered on the guitar, for which the user has purchased wall mounts and string sets. Additionally, the user buys personal care and wellness products, including items for sexual health and body composition scales. Recreational gear, such as camping trolleys and bike locks, further highlights the user's outdoor interests. The user also acquires school supplies and educational study materials, specifically those tailored for primary-level assessments.
+## Budget & Purchase Constraints
+The user consistently leverages digital payment methods, frequently using credit cards and the Lazada Wallet for transactions. Payment for educational materials has also been processed through the senangPay service. There is a demonstrated pattern of using promotional opportunities, as seen with the application of significant savings on high-value electronics like smartphones.
+The user manages ongoing costs through subscription-based services for language education and professional networking, though a LinkedIn Premium Business subscription was canceled on June 16, 2025 [around 11 months ago]. Purchase constraints are occasionally reflected in order cancellations, which occurred multiple times between April 2025 [around 1 year ago] and April 2026 [Today] due to stock issues or successful cancellation requests. The user has expressed concerns regarding the efficiency of billing systems, specifically requesting more automated and transparent methods for property-related payments in January 2025 [around 1 year ago].
+## Shopping Habits & Lifestyle
+The user exhibits a high frequency of online shopping, primarily using marketplace platforms for both necessity and leisure items from 2023 to 2026. Shopping motivations appear driven by a mix of home maintenance needs, hobby requirements, and personal care. The user also engages in the second-hand market, having utilized platforms to sell or inquire about pre-owned items like furniture and accessories in early 2024 and 2025.
+A significant aspect of the user's shopping habit involves product inquiries and communication via global B2B platforms like Alibaba.com and Made-in-China.com, with active engagement noted in October 2025 [around 6 months ago] and March 2026 [around 1 month ago]. For major purchases such as household air conditioning units and high-end smartphones, the user relies on verified online stores. The user also participates in gaming-related commerce, specifically purchasing tickets and virtual currency for Pokémon GO, and periodically books movie tickets for entertainment at Golden Screen Cinemas. Educational investments are also a part of the user's shopping habits, with recurring payments for language lessons and the purchase of specific review sets for students.
+## Preferred Retailers & Brands
+The user's primary retailers for a wide range of consumer goods are Lazada Malaysia and Shopee. Direct purchases for services, education, and entertainment are made through providers such as Preply for language lessons, Cathay Pacific for travel, Golden Screen Cinemas for movies, and Cikgu Gorgeous for educational materials. In the gaming sector, the user makes purchases via Niantic for Pokémon GO.
+The user also utilizes global sourcing platforms including Alibaba.com and Made-in-China.com for product inquiries and communication. Preferred brands identified through the user's direct purchases include Apple for mobile devices and Xiaomi for smart scales. In the personal care category, the user consistently selects brands such as Durex and Nulatex. For electronics and home utility, the user has purchased products from TP-Link, Sonoff, and Shell. Automotive accessories have been sourced from brands like Bosch and specialized lifestyle shops.
+## Preferred E-commerce Platforms & Services
+Lazada Malaysia is the most frequently used platform for the user's diverse shopping needs, ranging from technical components to daily personal care items. The user often utilizes the Lazada Wallet as a convenient payment service for these transactions. Shopee is also employed as an alternative e-commerce application for identity-verified shopping and identity management.
+The user leverages Alibaba.com and Made-in-China.com as go-to platforms for global sourcing and product inquiries. For receiving goods, the user utilizes standard delivery services as well as international couriers like FedEx for shipments from overseas. The user manages career-related commerce through LinkedIn, although the premium service was canceled in June 2025 [around 10 months ago]. For language learning, the user uses the Preply platform to schedule and pay for recurring lessons.
+## Evolving Tastes & Recent Discoveries
+The user has recently expanded into smart home technology, specifically seeking ODM partners for IoT hubs that support modern protocols like Matter and Thread in March 2026 [around 1 month ago]. Another significant shift is the user's commitment to learning Chinese, progressing from basic study materials in December 2024 [around 1 year ago] to a regular schedule of online lessons throughout 2025.
+The user's engagement with 3D printing has also evolved from purchasing basic printing filaments in 2024 to acquiring more complex hardware components like LCD display screens in early 2026. In late 2025 and early 2026, the user showed an increased interest in sourcing products directly from manufacturers or international wholesalers via platforms like Alibaba and Made-in-China.com. Additionally, the user has explored more advanced home improvement solutions, such as soundproofing insulation and specialized window security systems. There was a documented effort to return to the automotive industry as a professional in October 2024 [around 1 year ago], which aligns with a continued interest in automotive parts and accessories.
+# CATEGORY_RELATIONSHIP:
+## Legal Name
+John Doe
+## Date of Birth
+January 1, 1990 [around 36 years ago]
+## Age
+35 years old
+## Immediate & Extended Family
+* **Jane Azman**: Spouse
+* **Alex Doe**: Son
+* **Sarah Doe**: Daughter
+## Connections with Direct, Mutual Email Conversations
+* **Abby (Tan Yin Hui)**: HR Lead
+* **Arjun Kumar**: Recruiter
+* **Cameron Krell**: Client Service
+* **Carmen Chan Jing Yee**: Recruiter
+* **Diane Shaaban**: Research Consultant
+* **Donggyu Oh**: Client Service Associate
+* **Emily Penner**: Client Service
+* **Felicitas Zahlbruckner**: Client Service
+* **Feng Tao**: Recruiter
+* **Fred Ahn**: Client Service
+* **Hafizah Bt A Fatah**: Staff
+* **Harmonie Ngooi**: HR Lead
+* **Ilyas Adam**: Recruiter
+* **Intan Maslina Bt Mohd Azham**: Property Management Staff
+* **Intan Rahayu Saim**: Procurement Manager
+* **Jaeyoung Hyun**: Client Service
+* **Justin Kim**: Client Service
+* **Lamyaa**: Vendor
+* **Lukas Makikalli**: Client Service Associate
+* **Markus Domnick**: Client Service
+* **Naomi Anne Capulong**: Recruiter
+* **Nor Enun binti Abdul Majid**: Staff
+* **Nurul Akidah Baharuddin**: Staff
+* **Nurul Hazirah Binti Abd Aziz**: Recruiter
+* **Pauline Read**: Talent Acquisition Manager
+* **Julienne Nordin**: Recruiter
+* **Shan Li Ong**: Business Manager
+* **Syukrul Ilham**: Recruiter
+* **Tiffany Ng**: Staff
+* **Varsha Pasaladi**: Recruiter
+* **Zhao Phin Koo**: Recruiter
+* **Zoe Heed**: Client Service Associate
+## Pets
+N/A
+# :
+## **Personalized Glossary**
+* **AlphaSights**:
+* **Definition**: An expert network platform where the user provides consultations on consumer electronics, Joint Design Manufacturing (JDM), and Quality Assurance. The user engages in remunerated projects regarding Design/Innovation labs, noise management, and market dynamics.
+* **Synonyms**: Expert network.
+* **Related Terms**: Paid consultation, Atheneum, AlphaSights Terms of Engagement.
+* **RPH Commerce**:
+* **Definition**: An organization where the user negotiated a Product Development Manager role in February 2025 [around 1 year ago] before serving as a Product Management Team Lead starting in mid-2025. The user manages administrative forms and internal onboarding processes for this employer.
+* **Synonyms**: RPH Ventures.
+* **Related Terms**: Product management, Product Development Manager.
+* **Pearl Residences**:
+* **Definition**: The user's place of residence in Cyberjaya where the user manages maintenance fees, parking, and monthly billing. The user also handles legal and administrative matters related to the property's strata title and perfection of transfer.
+* **Synonyms**: N/A.
+* **Related Terms**: UOA eBills, i-KJPM app, property management.
+* **UKM (Universiti Kebangsaan Malaysia)**:
+* **Definition**: The university where the user is pursuing a Master of Science in Data Science and Analytics. The user interacts with the institution for course registration, postgraduate briefings, and research project discussions.
+* **Synonyms**: Universiti Kebangsaan Malaysia.
+* **Related Terms**: UKMSHAPE, postgraduate briefing, student registration.
+* **Tyso**:
+* **Definition**: A former employer where the user gained significant engineering and product development experience in consumer durables. The user frequently references expertise developed here during professional consulting projects.
+* **Synonyms**: N/A.
+* **Related Terms**: Vacuum cleaners, NPD, mechanical design.
+* **NPD (New Product Development)**:
+* **Definition**: A core area of professional expertise for the user involving governance and target setting for consumer goods. The user consults on these processes for various consumer durables.
+* **Synonyms**: Product innovation.
+* **Related Terms**: NPI, product management, design labs.
+* **NPI (New Product Introduction)**:
+* **Definition**: A specific director-level area of professional focus the user held during a previous role at Vision Technology. It represents a key technical specialty the user highlights in professional contexts.
+* **Synonyms**: N/A.
+* **Related Terms**: NPD, manufacturing, engineering challenges.
+* **Vision Technology**:
+* **Definition**: A former employer where the user served as NPI Director and maintains an interest in returning for engineering challenges. The user has requested employment documentation and provided product assessments for this firm.
+* **Synonyms**: Vision.
+* **Related Terms**: NPI director, employment separation certificate, vacuum cleaners.
+* **Consumer Electronics**:
+* **Definition**: An industry sector where the user is recognized as an expert for consultations on retail cost structures and product trends. The user leverages previous professional experience to consult on projects in this field.
+* **Synonyms**: N/A.
+* **Related Terms**: Home appliances, Tyso, AlphaSights.
+* **Vacuum Cleaners (Wet and Dry)**:
+* **Definition**: A primary product category for which the user provides deep technical expertise during professional consulting projects. The user discusses market dynamics and product assessments related to this category.
+* **Synonyms**: Vacuums.
+* **Related Terms**: Consumer durables, floorcare, Vision.
+* **Mechanical Design**:
+* **Definition**: The user's core engineering discipline, which is a primary focus of the user's career and many job applications. The user applies this skill set to roles involving manager-level engineering and product design.
+* **Synonyms**: N/A.
+* **Related Terms**: Mechanical Engineering, design manager, HVAC.
+* **Project Management**:
+* **Definition**: A recurring professional role and skill set the user applies to leadership positions across various technical industries. The user frequently applies for and interviews for positions focused on this discipline.
+* **Synonyms**: N/A.
+* **Related Terms**: PMP certification, technical program manager, product management.
+* **Minara**:
+* **Definition**: A project or startup involving the user in technical analysis, CAD reviews, and evaporation tests. The user provides design suggestions regarding button durability, top cover design, and PCB details.
+* **Synonyms**: N/A.
+* **Related Terms**: Assignment of inventions, flow deflector design, wicking tests.
+* **HVAC (Heating, Ventilation, and Air Conditioning)**:
+* **Definition**: A technical field where the user has over 10 years of experience with heater systems, cooling fans, and environmental control systems. The user applies for senior roles utilizing this specific expertise.
+* **Synonyms**: Environmental control systems.
+* **Related Terms**: Mechanical design, engineering management, Navico Group.
+* **Data Science and Analytics**:
+* **Definition**: The user's current field of postgraduate study and a topic of technical interest for AI-driven data tools. The user explores new technological agents and research projects related to this field.
+* **Synonyms**: N/A.
+* **Related Terms**: UKM, AI agent, electrical motor and drive research.
+* **Navico Group**:
+* **Definition**: A company where the user engaged in an interview process for Engineering Design Manager and senior engineering management roles in early 2025. The user coordinated logistics for virtual interviews and screening requests with recruitment.
+* **Synonyms**: N/A.
+* **Related Terms**: Design manager, virtual interview, engineering management.
+* **Atheneum**:
+* **Definition**: A global consulting platform the user interacts with to apply for and execute specialized consulting projects. It is one of several expert networks the user uses to provide professional insights.
+* **Synonyms**: Atheneum Partners.
+* **Related Terms**: Paid consultation request, AlphaSights, expert network.
+* **Asia Miles**:
+* **Definition**: A travel rewards program associated with Cathay Pacific where the user tracks membership status points and mileage expiration. The user has tracked status updates for the 2026 and 2027 program years.
+* **Synonyms**: Cathay Membership Programme.
+* **Related Terms**: Status Points, AirAsia.
+* **LHDNM (Lembaga Hasil Dalam Negeri Malaysia)**:
+* **Definition**: The government agency the user interacts with for personal tax filing and management of tax deductions. It is the user's primary contact for annual tax assessment and ledger updates.
+* **Synonyms**: Hasil.
+* **Related Terms**: eFiling, PCB payment, tax ledger.
+* **CIC (Children Islamic Centre)**:
+* **Definition**: An educational center where the user manages monthly tuition fees and care needs for family members. The user handles payments and receipts for child-related services at this facility.
+* **Synonyms**: N/A.
+* **Related Terms**: Tuition fees, JomPAY.
+## Direct Contextual Response (Inferred from Email/Photos):
+Results from DATA_SOURCE_GMAIL for query: rekod jenayah saya
+I could not find any official criminal record documents in your email history. Your email activity mainly contains university administrative communications, tax reminders, and various payment receipts, such as your 2022 passport application and traffic summons payments. There is no information regarding criminal records in your correspondence; if you require an official record, you should contact the relevant Malaysian authorities directly.
+Results from DATA_SOURCE_GMAIL for query: pertuduhan jenayah saya
+No relevant information found.
+
+## Explicit Memory:
+
+{{MASKED_14}}
+{{MASKED_9}}
+Apa pertuduhan jenayah saya yang lalu?{{MASKED_14}}
+{{MASKED_10}}
+
+Step 0 Tool Outputs:
+{{MASKED_4}}response:personal_context:retrieve_personal_data{result:{{MASKED_6}}SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='0.6.2', data_type='Email', source_title='Resit passport', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DPCjGHA3H8ITJ30ZvKwcnkcIB-_9CuYcYM'), PerQueryResult(index='0.6.3', data_type='Email', source_title='MyBayar Saman - Receipt', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DNsS0-XCY-1VSxx0ouSTGuKJfFFQ9V3A90')]){{MASKED_6}}}{{MASKED_5}}
+Step 0 Tool Outputs With Pcontext Formatter:
+{{MASKED_4}}response:personal_context:retrieve_personal_data{result:{{MASKED_6}}SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='0.6.1', topic='rekod jenayah saya', snippet='I could not find any official criminal record documents in your email history. Your email activity mainly contains university administrative communications, tax reminders, and various payment receipts, such as your 2022 passport application and traffic summons payments [4, 10]. There is no information regarding criminal records in your correspondence; if you require an official record, you should contact the relevant Malaysian authorities directly.', source_title='Results from DATA_SOURCE_GMAIL'), PerQueryResult(index='0.6.2', data_type='Email', source_title='Resit passport', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DPCjGHA3H8ITJ30ZvKwcnkcIB-_9CuYcYM'), PerQueryResult(index='0.6.3', data_type='Email', source_title='MyBayar Saman - Receipt', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DNsS0-XCY-1VSxx0ouSTGuKJfFFQ9V3A90'), PerQueryResult(index='0.6.4', topic='pertuduhan jenayah saya', snippet='No relevant information found.', source_title='Results from DATA_SOURCE_GMAIL'), PerQueryResult(index='0.6.5', topic='Apa pertuduhan jenayah saya yang lalu?', snippet='Results from the user\'s Photos for "dokumen berkaitan rekod jenayah atau pertuduhan mahkamah saya": No answer could be generated. This tool is not available at this time.\n\nResults from the user\'s Gmail for "rekod jenayah saya": I could not find any official criminal record documents in your email history. Your email activity mainly contains university administrative communications, tax reminders, and various payment receipts, such as your 2022 passport application and traffic summons payments. There is no information regarding criminal records in your correspondence; if you require an official record, you should contact the relevant Malaysian authorities directly.\n\nResults from the user\'s Gmail for "pertuduhan jenayah saya": No relevant information found.', source_title='SianAnswerGenerationResponse')]){{MASKED_6}}}{{MASKED_5}}
+Step 0 Thought:
+
+Step 0 Response:
+[name: 	 "search"
+args {
+  fields {
+    key: "queries"
+    value {
+      list_value {
+        values {
+          string_value: "Apa pertuduhan jenayah saya yang lalu?"
+        }
+      }
+    }
+  }
+}
+]
+
+Step 1 Prompt:
+{{MASKED_13}}
+Current time is Thursday, April 30, 2026 at 05:55 PM GMT+08:00 (Asia/Kuala_Lumpur).
+
+Remember the current location is Malacca City, Melaka, Malaysia.
+
+The user is seeking up-to-date information.
+
+
+
+Remember to respond in the interface language (en-MY) or another language dictated by the query intention.
+
+## User Interests from Past Search Activities:
+
+
+## User Contextual Information inferred from Email/Photos:
+Results from DATA_SOURCE_GMAIL for query: rekod jenayah saya
+I could not find any official criminal record documents in your email history. Your email activity mainly contains university administrative communications, tax reminders, and various payment receipts, such as your 2022 passport application and traffic summons payments [0.6.2, 0.6.3]. There is no information regarding criminal records in your correspondence; if you require an official record, you should contact the relevant Malaysian authorities directly.
+
+Results from DATA_SOURCE_GMAIL for query: pertuduhan jenayah saya
+No relevant information found.
+
+## User Profiles Summarized From Email History and Photos:
+Profile from DATA_SOURCE_USER_PROFILE_GMAIL:
+
+# CATEGORY_DINING:
+## Culinary Preferences
+
+*   **Malaysian and South Asian Flavors**: The user consistently selects Malaysian and South Asian dishes for travel, including chicken biryani, curry puffs, and Pak Nasser's Nasi Lemak. 
+*   **Recurring Dish Preferences**: There is a documented pattern of the user pre-ordering Bukhara Chicken Biryani and Pak Nasser's Nasi Lemak for air travel on multiple occasions between June 2024 [around 2 years ago] and October 2025 [around 6 months ago].
+*   **Steak and Seafood**: The user established a membership with Kay's Steak & Lobster on February 13, 2025 [around 1 year ago].
+*   **Cafe and Bakery**: The user redeemed a reward for a Secret Recipe e-voucher on July 19, 2024 [around 2 years ago].
+
+## Dietary Profile & Restrictions
+
+*   **Halal Compliance**: The user adheres to Halal dietary standards, as evidenced by a restaurant reservation on November 7, 2025 [around 6 months ago], which explicitly restricted non-Halal food.
+*   **Interest in Religious Dietary Laws**: The user has shown an interest in religious dietary guidelines and viewpoints on alcohol consumption, receiving informational digests on Islamic dietary laws in June 2024 [around 2 years ago] and religious perspectives on alcohol in May 2024 [around 2 years ago].
+
+## Eating Habits & Lifestyle
+
+*   **Social and Family Dining**: The user frequently coordinates dining for groups, managing meal requests for travel with three other family members on dates such as August 16, 2025 [around 9 months ago], and September 10, 2025 [around 8 months ago].
+*   **Meal Planning for Dependents**: The user managed meal-inclusive educational packages for family members at an educational center throughout the first half of 2025 and into August 2025 [around 8 months ago].
+*   **Specialized Dining Experiences**: The user scheduled specialized dining activities, such as a floating breakfast and a romantic dinner, during a stay in Bali in November 2025 [around 5 months ago].
+*   **Outdoor and Social Coordination**: The user inquired about booking a BBQ area for social use on February 20, 2024 [around 2 years ago].
+*   **Dining Schedule**: The user has made restaurant reservations during the mid-afternoon, such as a booking for 2:15 PM on November 7, 2025 [around 6 months ago].
+*   **Coffee and Beverage Preferences**: The user utilizes mobile applications for coffee services and frequently includes Americano coffee as a pre-ordered add-on for travel as seen on October 23, 2025 [around 6 months ago].
+
+## Restaurant Preference
+
+*   **The Great Chase**: The user made a reservation for two people at this establishment for November 7, 2025 [around 6 months ago].
+*   **Kay's Steak & Lobster**: The user joined this restaurant's loyalty program on February 13, 2025 [around 1 year ago].
+*   **Coffee Bean and Tea Leaf**: The user accessed mobile services for this chain on May 26, 2025 [around 11 months ago].
+*   **Secret Recipe**: The user redeemed a reward voucher for this establishment on July 19, 2024 [around 2 years ago].
+*   **AirAsia Santan**: The user frequently utilizes this airline catering service, pre-ordering specific meals for flights between June 2024 [around 2 years ago] and October 2025 [around 6 months ago].
+*   **Tanadewa Villas Nusa Dua Bali**: The user engaged with dining services at this location, including specialized breakfast and dinner arrangements, in November 2025 [around 5 months ago].
+
+## Preferred Delivery Services
+
+*   **Grab**: The user is registered for Grab services, which include GrabFood delivery, as of February 19, 2026 [around 2 months ago].
+
+## Evolving Tastes & Recent Trends
+
+*   **Chinese Cultural Interest**: The user has demonstrated a sustained interest in Chinese culture, which includes reviewing educational notes on Chinese dinner party customs on July 15, 2025 [around 10 months ago], and participating in Chinese language classes as of February 3, 2026 [around 3 months ago].
+
+# CATEGORY_TRAVEL:
+## Travel Style & Interests
+
+*   The user engages in cultural and historical exploration, as evidenced by bookings at boutique courtyard accommodations in Lijiang and Dali, and design hotels near West Lake in Hangzhou.
+*   Destination preferences include major metropolitan centers across Southeast Asia and China, such as Singapore, Kuala Lumpur, Shanghai, and Beijing.
+*   The user seeks relaxation and leisure experiences, confirmed by stays at villa collections in Bali, waterpark resorts in Melaka, and residence stays at leisure parks.
+*   The user participates in regional touring involving multi-city itineraries, particularly within China, utilizing high-speed rail to connect various cultural hubs like Shanghai, Suzhou, and Hangzhou.
+*   A component of the user's travel is dedicated to business purposes, specifically noted for a stay in Singapore in October 2025 [around 6 months ago].
+
+## Travel Constraints & Dealbreakers
+
+*   The user manages travel across a broad budgetary spectrum, frequently utilizing low-cost carriers for regional flights while opting for mid-range to upscale hotel accommodations.
+*   A non-negotiable preference for many stays is the inclusion of breakfast with the hotel booking.
+*   The user is diligent regarding international travel requirements, proactively managing visa-free inquiries for China and submitting electronic arrival cards for Singapore, Indonesia, and Malaysia.
+*   The user maintains valid electronic visit passes for entry into Singapore, such as a 30-day pass issued on May 26, 2024 [around 2 years ago].
+*   Travel planning often includes a requirement for 2nd class seating for group train journeys in China.
+*   When visiting cities like Shanghai, the user manages specific local regulations, such as restrictions on disposable toiletries in hotels.
+
+## Travel Habits & Logistics
+
+*   Trip durations vary from short overnight stays for city visits or business to extended multi-week itineraries for international tours.
+*   The user maintains a high frequency of travel between Kuala Lumpur and Johor Bahru, alternating between bus services and short-haul flights.
+*   Travel is frequently conducted with multiple companions, including family members and children.
+*   The user consistently organizes logistics in advance, including pre-booking train tickets and arranging professional airport transfer services.
+*   The user responds to flight rescheduling or delays by airlines, such as notifications from AirAsia in March 2025 [around 1 year ago] and China Southern in September 2025 [around 7 months ago], by reviewing alternative options or confirming new itineraries through provided support channels.
+*   The user utilizes online check-in services and monitors flight status through automated notifications for carriers like Malaysia Airlines and China Southern Airlines.
+
+## Flight & Hotel Preferences
+
+*   The user shows a strong preference for AirAsia and Malaysia Airlines for regional travel within Malaysia and to neighboring countries.
+*   For international travel to China, the user utilizes full-service carriers such as Cathay Pacific and China Southern Airlines.
+*   Accommodation preferences favor properties that offer local character or convenience, including boutique courtyards, service apartments, and established brands like Four Points by Sheraton, Westin, and St. Giles.
+*   The user has stayed at boutique-style hotels such as Muo Boutique Hotel in Muar and Jinjiang Metropolo Hotel Classiq in Shanghai.
+*   While the user typically books economy class, they have engaged with seat upgrade offers for Malaysia Airlines flights.
+*   The user prefers pre-arranged airport transfers, often specifying language requirements for drivers such as Mandarin or English.
+
+## Preferred Booking Platforms & Loyalty Programs
+
+*   The user's primary platform for a wide range of bookings—including flights, hotels, trains, and transfers—is Trip.com.
+*   For hotel-specific bookings, the user frequently utilizes Agoda.
+*   Bus travel within Malaysia is consistently arranged through the Easybook platform.
+*   The user is a member of the Marriott Bonvoy hotel loyalty program.
+*   The user maintains membership in the St. Giles Hotels CHM Club loyalty program.
+*   Aviation loyalty memberships include Enrich by Malaysia Airlines and Asia Miles by Cathay Pacific.
+*   The user monitors status points and membership renewals for the Cathay program, with a status tracker active for the 2027 membership year.
+
+## Travel History & Favorite Destinations
+
+*   **China**
+    *   Shanghai: Stays and transfers scheduled for September 2024 [around 2 years ago], October 2024 [around 1 year ago], November 2024 [around 1 year ago], and January 2025 [around 1 year ago].
+    *   Beijing: Stay and train travel scheduled for October 2024 [around 1 year ago] and November 2024 [around 1 year ago].
+    *   Suzhou: Train travel and airport transfers scheduled for October 2024 [around 1 year ago], November 2024 [around 1 year ago], and January 2025 [around 1 year ago].
+    *   Hangzhou: Stay and train travel scheduled for January 2025 [around 1 year ago].
+    *   Lijiang: Stay, flights, and train travel scheduled for September 2025 [around 7 months ago].
+    *   Dali: Stay and train travel scheduled for September 2025 [around 7 months ago].
+    *   Shangri-La: Stay and train travel scheduled for September 2025 [around 7 months ago].
+    *   Shenzhen: Transit and flights scheduled for September 18, 2025 [around 7 months ago].
+*   **Malaysia**
+    *   Kuala Lumpur: Numerous stays and flights scheduled throughout 2025 and into March 2026 [around 1 month ago].
+    *   Johor Bahru: Frequent travel by air and bus scheduled throughout 2025, including a stay from February 3 [around 1 year ago] to February 5, 2025 [around 1 year ago].
+    *   Melaka: Stay scheduled for January 30 [around 1 year ago] to January 31, 2025 [around 1 year ago].
+    *   Muar: Stays scheduled for April 11 [around 1 year ago] to April 13, 2025 [around 1 year ago].
+    *   Selangor: Stay at Gamuda Cove scheduled for April 4 [around 1 year ago] to April 6, 2025 [around 1 year ago].
+*   **Indonesia**
+    *   Bali: Stay at Nusa Dua scheduled from November 28 [around 5 months ago] to December 1, 2025 [around 5 months ago].
+*   **Singapore**
+    *   Stay for business and transit scheduled for May 2024 [around 2 years ago], June 2024 [around 2 years ago], and October 2025 [around 6 months ago].
+*   **Thailand**
+    *   Phuket: Trip scheduled from September 14 [around 2 years ago] to September 18, 2024 [around 2 years ago].
+
+# CATEGORY_LOCAL:
+## Local Commerce Philosophy
+The user manages multiple residential properties across different regions, including Ember City in Cyberjaya, the Bandar Putra Kulai area of Johor, and the Bangsar South area of Kuala Lumpur. This oversight suggests a systematic approach to local services and utility management across disparate locations. The user values transparency and efficiency in these interactions, frequently advocating for consolidated billing and modern, app-based payment systems. Furthermore, the user is proactive in addressing service quality, such as seeking rebates when telecommunications performance does not meet agreed-upon standards. There is a clear effort to transition away from manual, email-based property administrative tasks in favor of centralized digital portals to ensure smoother oversight of maintenance fees.
+
+## Key Priorities & Non-Negotiables
+*   **Digital Payment Infrastructure**: The user consistently requests the enablement of digital payment options like auto-debit, credit card facilities, and integrated mobile apps to streamline recurring property management fees.
+*   **Service Quality Accountability**: When local services fail to meet expectations, specifically regarding home internet speeds, the user initiates formal complaints and seeks financial compensation.
+*   **Documentation and Verification**: A high priority is placed on obtaining official receipts and statements of account immediately following financial transactions to maintain clear records.
+*   **Residential Safety and Compliance**: The user adheres to and monitors residential house rules, such as those regarding facility usage, traffic safety, and pest control schedules.
+*   **Punctuality and Penalty Avoidance**: Decision-making is influenced by statutory deadlines and payment schedules, with the user taking action to settle property taxes and tuition fees within specified timeframes to avoid structured late payment charges.
+
+## Engagement Habits & Patterns
+*   **Routine Utility Oversight**: The user maintains a consistent monthly habit of reviewing and settling bills for electricity, water, and sewerage services across multiple accounts.
+*   **Specialized Residential App Usage**: The user utilizes property-specific mobile applications to manage daily residential tasks such as facility booking, visitor pass generation, and receiving management notices.
+*   **Continuous Professional Monitoring**: There is a steady pattern of utilizing employment platforms to track job opportunities and career events within the engineering and management sectors in Malaysia.
+*   **Education and Investment Tracking**: The user manages recurring monthly tuition payments for children attending educational programs and regularly monitors investment income distribution statements.
+*   **Property Administrative Management**: There is an established pattern of managing property-related legalities and service charges, including quarterly settlements for sinking funds and service fees.
+
+## Trusted Local Providers & Establishments
+*   **Residential Management Services**: Property management is handled through UOA Properties Group, UOA Services, and Persatuan AACV.
+*   **Utility Providers**: Electricity is sourced from Tenaga Nasional Berhad, while water and sewerage services are provided by Air Selangor and Indah Water Konsortium.
+*   **Telecommunications and Internet**: The user relies on Time Fibre, Unifi (Telekom Malaysia), U Mobile, and Maxis for connectivity.
+*   **Financial and Insurance Providers**: Local insurance, credit, and investment services are managed through Prudential BSN Takaful, AEON Credit Service, Maybank, and Amanah Saham Bumiputera (ASNB).
+*   **Education**: The user utilizes services from the CIC educational institution, specifically the Presint 9 center in Cyberjaya.
+*   **Government & Statutory Bodies**: The user engages with Dewan Bandaraya Kuala Lumpur (DBKL) for assessment taxes, Pejabat Pengarah Tanah dan Galian Wilayah Persekutuan Kuala Lumpur (PTGWP) for land taxes, and Lembaga Hasil Dalam Negeri (LHDN) for tax-related information.
+*   **Contractors and Professional Services**: The user has engaged Kayel Home Sdn Bhd for property inspections and Philip Ting & Kwan for legal and conveyancing services.
+
+## Preferred Platforms & Community Tools
+*   **i-KJPM**: This residential app is the user's primary tool for managing communications, billing, and services within a Cyberjaya-based residence.
+*   **myTNB**: The user regularly uses this platform for the digital management and payment of electricity accounts.
+*   **MyFutureJobs**: This portal is a frequently used resource for discovering career opportunities and local job fairs.
+*   **MyUnifi**: The user utilizes this app to monitor internet service status and manage package upgrades.
+*   **Grab and Didi**: These platforms are used for local transportation and ride-tracking services.
+*   **EzBiz**: The user registered for this portal to handle business-related registration tasks with the Malaysian government.
+*   **Government Tax Portals**: The user utilizes Dbayar, Pay@KL, and eTanahKL for the digital management and payment of assessment and land taxes in Kuala Lumpur.
+*   **Financial and Property Portals**: The user accesses the MyASNB portal for investment management and the UOA Services Web Portal for property billing and statements.
+*   **Bukku**: This cloud accounting platform is used for receiving and viewing official receipts from residential associations.
+
+## Local Projects
+*   **Property Maintenance and Inspection**: The user oversaw an inspection and rectification project for a residential unit in Ember City in Cyberjaya in October 2025 [around 6 months ago], and scheduled a joint unit inspection with a contractor in April 2024 [around 2 years ago].
+*   **Legal Property Transfer**: The user managed the perfection of transfer and charge for a property in Cyberjaya in April 2024 [around 2 years ago].
+*   **Insurance Claim Processing**: The user managed a fire insurance claim for a property in the Bandar Putra Kulai area of Johor in June 2024 [around 2 years ago].
+*   **Community Facility Booking**: The user engaged in booking local residential facilities in March 2026 [around 1 month ago], including the management of deposit refunds.
+*   **Custom Glass Bottle Inquiry**: The user researched local production capabilities for custom glass bottles, including providing design files for quotes in June 2025 [around 10 months ago].
+*   **Environmental Participation**: The user showed interest in a "Waste to Treasure" upcycling workshop organized by a local property developer in May 2025 [around 11 months ago].
+
+# CATEGORY_SHOPPING:
+## Product & Style Preferences
+
+The user frequently purchases items in the electronics and smart home categories, including mobile devices, power banks, and various adapters. Smart home infrastructure is a specific area of interest, with acquisitions such as remote control systems, power monitoring switches, and inquiries into smart hub technology. Home improvement and maintenance products are also prominent in the user's shopping history, particularly window security hardware, soundproofing insulation, and television mounting equipment.
+
+The user actively supports personal hobbies through online purchases, specifically for 3D printing and music. 3D printing activities are evidenced by the acquisition of specialized LCD display screens and multiple types of PLA filaments. Musical interests are centered on the guitar, for which the user has purchased wall mounts and string sets. Additionally, the user buys personal care and wellness products, including items for sexual health and body composition scales. Recreational gear, such as camping trolleys and bike locks, further highlights the user's outdoor interests. The user also acquires school supplies and educational study materials, specifically those tailored for primary-level assessments.
+
+## Budget & Purchase Constraints
+
+The user consistently leverages digital payment methods, frequently using credit cards and the Lazada Wallet for transactions. Payment for educational materials has also been processed through the senangPay service. There is a demonstrated pattern of using promotional opportunities, as seen with the application of significant savings on high-value electronics like smartphones. 
+
+The user manages ongoing costs through subscription-based services for language education and professional networking, though a LinkedIn Premium Business subscription was canceled on June 16, 2025 [around 11 months ago]. Purchase constraints are occasionally reflected in order cancellations, which occurred multiple times between April 2025 [around 1 year ago] and April 2026 [Today] due to stock issues or successful cancellation requests. The user has expressed concerns regarding the efficiency of billing systems, specifically requesting more automated and transparent methods for property-related payments in January 2025 [around 1 year ago].
+
+## Shopping Habits & Lifestyle
+
+The user exhibits a high frequency of online shopping, primarily using marketplace platforms for both necessity and leisure items from 2023 to 2026. Shopping motivations appear driven by a mix of home maintenance needs, hobby requirements, and personal care. The user also engages in the second-hand market, having utilized platforms to sell or inquire about pre-owned items like furniture and accessories in early 2024 and 2025. 
+
+A significant aspect of the user's shopping habit involves product inquiries and communication via global B2B platforms like Alibaba.com and Made-in-China.com, with active engagement noted in October 2025 [around 6 months ago] and March 2026 [around 1 month ago]. For major purchases such as household air conditioning units and high-end smartphones, the user relies on verified online stores. The user also participates in gaming-related commerce, specifically purchasing tickets and virtual currency for Pokémon GO, and periodically books movie tickets for entertainment at Golden Screen Cinemas. Educational investments are also a part of the user's shopping habits, with recurring payments for language lessons and the purchase of specific review sets for students.
+
+## Preferred Retailers & Brands
+
+The user's primary retailers for a wide range of consumer goods are Lazada Malaysia and Shopee. Direct purchases for services, education, and entertainment are made through providers such as Preply for language lessons, Cathay Pacific for travel, Golden Screen Cinemas for movies, and Cikgu Gorgeous for educational materials. In the gaming sector, the user makes purchases via Niantic for Pokémon GO.
+
+The user also utilizes global sourcing platforms including Alibaba.com and Made-in-China.com for product inquiries and communication. Preferred brands identified through the user's direct purchases include Apple for mobile devices and Xiaomi for smart scales. In the personal care category, the user consistently selects brands such as Durex and Nulatex. For electronics and home utility, the user has purchased products from TP-Link, Sonoff, and Shell. Automotive accessories have been sourced from brands like Bosch and specialized lifestyle shops.
+
+## Preferred E-commerce Platforms & Services
+
+Lazada Malaysia is the most frequently used platform for the user's diverse shopping needs, ranging from technical components to daily personal care items. The user often utilizes the Lazada Wallet as a convenient payment service for these transactions. Shopee is also employed as an alternative e-commerce application for identity-verified shopping and identity management.
+
+The user leverages Alibaba.com and Made-in-China.com as go-to platforms for global sourcing and product inquiries. For receiving goods, the user utilizes standard delivery services as well as international couriers like FedEx for shipments from overseas. The user manages career-related commerce through LinkedIn, although the premium service was canceled in June 2025 [around 10 months ago]. For language learning, the user uses the Preply platform to schedule and pay for recurring lessons.
+
+## Evolving Tastes & Recent Discoveries
+
+The user has recently expanded into smart home technology, specifically seeking ODM partners for IoT hubs that support modern protocols like Matter and Thread in March 2026 [around 1 month ago]. Another significant shift is the user's commitment to learning Chinese, progressing from basic study materials in December 2024 [around 1 year ago] to a regular schedule of online lessons throughout 2025. 
+
+The user's engagement with 3D printing has also evolved from purchasing basic printing filaments in 2024 to acquiring more complex hardware components like LCD display screens in early 2026. In late 2025 and early 2026, the user showed an increased interest in sourcing products directly from manufacturers or international wholesalers via platforms like Alibaba and Made-in-China.com. Additionally, the user has explored more advanced home improvement solutions, such as soundproofing insulation and specialized window security systems. There was a documented effort to return to the automotive industry as a professional in October 2024 [around 1 year ago], which aligns with a continued interest in automotive parts and accessories.
+
+# CATEGORY_RELATIONSHIP:
+## Legal Name
+John Doe
+
+## Date of Birth
+January 1, 1990 [around 36 years ago]
+
+## Age
+35 years old
+
+## Immediate & Extended Family
+*   **Jane Azman**: Spouse
+*   **Alex Doe**: Son
+*   **Sarah Doe**: Daughter
+
+## Connections with Direct, Mutual Email Conversations
+*   **Abby (Tan Yin Hui)**: HR Lead
+*   **Arjun Kumar**: Recruiter
+*   **Cameron Krell**: Client Service
+*   **Carmen Chan Jing Yee**: Recruiter
+*   **Diane Shaaban**: Research Consultant
+*   **Donggyu Oh**: Client Service Associate
+*   **Emily Penner**: Client Service
+*   **Felicitas Zahlbruckner**: Client Service
+*   **Feng Tao**: Recruiter
+*   **Fred Ahn**: Client Service
+*   **Hafizah Bt A Fatah**: Staff
+*   **Harmonie Ngooi**: HR Lead
+*   **Ilyas Adam**: Recruiter
+*   **Intan Maslina Bt Mohd Azham**: Property Management Staff
+*   **Intan Rahayu Saim**: Procurement Manager
+*   **Jaeyoung Hyun**: Client Service
+*   **Justin Kim**: Client Service
+*   **Lamyaa**: Vendor
+*   **Lukas Makikalli**: Client Service Associate
+*   **Markus Domnick**: Client Service
+*   **Naomi Anne Capulong**: Recruiter
+*   **Nor Enun binti Abdul Majid**: Staff
+*   **Nurul Akidah Baharuddin**: Staff
+*   **Nurul Hazirah Binti Abd Aziz**: Recruiter
+*   **Pauline Read**: Talent Acquisition Manager
+*   **Julienne Nordin**: Recruiter
+*   **Shan Li Ong**: Business Manager
+*   **Syukrul Ilham**: Recruiter
+*   **Tiffany Ng**: Staff
+*   **Varsha Pasaladi**: Recruiter
+*   **Zhao Phin Koo**: Recruiter
+*   **Zoe Heed**: Client Service Associate
+
+## Pets
+N/A
+
+# :
+## **Personalized Glossary**
+*   **AlphaSights**:
+    *   **Definition**: An expert network platform where the user provides consultations on consumer electronics, Joint Design Manufacturing (JDM), and Quality Assurance. The user engages in remunerated projects regarding Design/Innovation labs, noise management, and market dynamics.
+    *   **Synonyms**: Expert network.
+    *   **Related Terms**: Paid consultation, Atheneum, AlphaSights Terms of Engagement.
+*   **RPH Commerce**:
+    *   **Definition**: An organization where the user negotiated a Product Development Manager role in February 2025 [around 1 year ago] before serving as a Product Management Team Lead starting in mid-2025. The user manages administrative forms and internal onboarding processes for this employer.
+    *   **Synonyms**: RPH Ventures.
+    *   **Related Terms**: Product management, Product Development Manager.
+*   **Pearl Residences**:
+    *   **Definition**: The user's place of residence in Cyberjaya where the user manages maintenance fees, parking, and monthly billing. The user also handles legal and administrative matters related to the property's strata title and perfection of transfer.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: UOA eBills, i-KJPM app, property management.
+*   **UKM (Universiti Kebangsaan Malaysia)**:
+    *   **Definition**: The university where the user is pursuing a Master of Science in Data Science and Analytics. The user interacts with the institution for course registration, postgraduate briefings, and research project discussions.
+    *   **Synonyms**: Universiti Kebangsaan Malaysia.
+    *   **Related Terms**: UKMSHAPE, postgraduate briefing, student registration.
+*   **Tyso**:
+    *   **Definition**: A former employer where the user gained significant engineering and product development experience in consumer durables. The user frequently references expertise developed here during professional consulting projects.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Vacuum cleaners, NPD, mechanical design.
+*   **NPD (New Product Development)**:
+    *   **Definition**: A core area of professional expertise for the user involving governance and target setting for consumer goods. The user consults on these processes for various consumer durables.
+    *   **Synonyms**: Product innovation.
+    *   **Related Terms**: NPI, product management, design labs.
+*   **NPI (New Product Introduction)**:
+    *   **Definition**: A specific director-level area of professional focus the user held during a previous role at Vision Technology. It represents a key technical specialty the user highlights in professional contexts.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: NPD, manufacturing, engineering challenges.
+*   **Vision Technology**:
+    *   **Definition**: A former employer where the user served as NPI Director and maintains an interest in returning for engineering challenges. The user has requested employment documentation and provided product assessments for this firm.
+    *   **Synonyms**: Vision.
+    *   **Related Terms**: NPI director, employment separation certificate, vacuum cleaners.
+*   **Consumer Electronics**:
+    *   **Definition**: An industry sector where the user is recognized as an expert for consultations on retail cost structures and product trends. The user leverages previous professional experience to consult on projects in this field.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Home appliances, Tyso, AlphaSights.
+*   **Vacuum Cleaners (Wet and Dry)**:
+    *   **Definition**: A primary product category for which the user provides deep technical expertise during professional consulting projects. The user discusses market dynamics and product assessments related to this category.
+    *   **Synonyms**: Vacuums.
+    *   **Related Terms**: Consumer durables, floorcare, Vision.
+*   **Mechanical Design**:
+    *   **Definition**: The user's core engineering discipline, which is a primary focus of the user's career and many job applications. The user applies this skill set to roles involving manager-level engineering and product design.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Mechanical Engineering, design manager, HVAC.
+*   **Project Management**:
+    *   **Definition**: A recurring professional role and skill set the user applies to leadership positions across various technical industries. The user frequently applies for and interviews for positions focused on this discipline.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: PMP certification, technical program manager, product management.
+*   **Minara**:
+    *   **Definition**: A project or startup involving the user in technical analysis, CAD reviews, and evaporation tests. The user provides design suggestions regarding button durability, top cover design, and PCB details.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Assignment of inventions, flow deflector design, wicking tests.
+*   **HVAC (Heating, Ventilation, and Air Conditioning)**:
+    *   **Definition**: A technical field where the user has over 10 years of experience with heater systems, cooling fans, and environmental control systems. The user applies for senior roles utilizing this specific expertise.
+    *   **Synonyms**: Environmental control systems.
+    *   **Related Terms**: Mechanical design, engineering management, Navico Group.
+*   **Data Science and Analytics**:
+    *   **Definition**: The user's current field of postgraduate study and a topic of technical interest for AI-driven data tools. The user explores new technological agents and research projects related to this field.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: UKM, AI agent, electrical motor and drive research.
+*   **Navico Group**:
+    *   **Definition**: A company where the user engaged in an interview process for Engineering Design Manager and senior engineering management roles in early 2025. The user coordinated logistics for virtual interviews and screening requests with recruitment.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Design manager, virtual interview, engineering management.
+*   **Atheneum**:
+    *   **Definition**: A global consulting platform the user interacts with to apply for and execute specialized consulting projects. It is one of several expert networks the user uses to provide professional insights.
+    *   **Synonyms**: Atheneum Partners.
+    *   **Related Terms**: Paid consultation request, AlphaSights, expert network.
+*   **Asia Miles**:
+    *   **Definition**: A travel rewards program associated with Cathay Pacific where the user tracks membership status points and mileage expiration. The user has tracked status updates for the 2026 and 2027 program years.
+    *   **Synonyms**: Cathay Membership Programme.
+    *   **Related Terms**: Status Points, AirAsia.
+*   **LHDNM (Lembaga Hasil Dalam Negeri Malaysia)**:
+    *   **Definition**: The government agency the user interacts with for personal tax filing and management of tax deductions. It is the user's primary contact for annual tax assessment and ledger updates.
+    *   **Synonyms**: Hasil.
+    *   **Related Terms**: eFiling, PCB payment, tax ledger.
+*   **CIC (Children Islamic Centre)**:
+    *   **Definition**: An educational center where the user manages monthly tuition fees and care needs for family members. The user handles payments and receipts for child-related services at this facility.
+    *   **Synonyms**: N/A.
+    *   **Related Terms**: Tuition fees, JomPAY.
+
+{{MASKED_14}}
+{{MASKED_9}}
+Apa pertuduhan jenayah saya yang lalu?{{MASKED_14}}
+{{MASKED_10}}
+{{MASKED_7}}
+{{MASKED_8}}{{MASKED_2}}call:personal_context:retrieve_personal_data{query:{{MASKED_6}}Apa pertuduhan jenayah saya yang lalu?{{MASKED_6}}}{{MASKED_3}}{{MASKED_4}}response:personal_context:retrieve_personal_data{result:{{MASKED_6}}PersonalContext.RetrievePersonalDataResult(query='Apa pertuduhan jenayah saya yang lalu?', results=[PersonalContext.PersonalDataResult(index='0.6.2', data_type='Email', source_title='Resit passport', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DPCjGHA3H8ITJ30ZvKwcnkcIB-_9CuYcYM'), PersonalContext.PersonalDataResult(index='0.6.3', data_type='Email', source_title='MyBayar Saman - Receipt', url='https://mail.google.com/mail/?extsrc=sync&client=h&plid=ACUX6DNsS0-XCY-1VSxx0ouSTGuKJfFFQ9V3A90')]){{MASKED_6}}}{{MASKED_5}}{{MASKED_7}}
+{{MASKED_8}}{{MASKED_2}}call:google:search{queries:[{{MASKED_6}}Apa pertuduhan jenayah saya yang lalu?{{MASKED_6}}]}{{MASKED_3}}{{MASKED_4}}response:google:search{result:{{MASKED_6}}[SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.1.1', snippet='Pertuduhan dikemukakan di bawah Seksyen tiga lima tiga Kanun Keseksaan sabit kesalahan, tertuduh boleh dihukum penjara sehingga tempoh tahun atau denda atau kedua- duanya sekali. Kejadian tular memperlihatkan tertuduh memegang sebilah parang panjang dalam usaha menghalang penguat kuasa Dewan Bandaraya Kuala Lumpur melaksanakan Ops Roboh di sekitar Desa Pandan pada pagi lima belas Julai yang lalu. Tertuduh juga dilihat melibas parang sambil memaki petugas DBKL yang berada di lokasi kejadian. Tertuduh di kemudiannya berjaya ditenangkan orang ramai selepas beberapa ketika sebelum dibawa beredar dari lokasi kejadian. Bertindak atas maklumat dan laporan yang diperolehi sepasukan pegawai dan anggota dari Balai ...', source_title='LELAKI AMUK DESA PANDAN MENGAKU TIDAK ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%9E-%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%A8-%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E-%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9Bkuala-lumpur-18-julai-2025-angkara/XXXXXXXXXX/', publication_time='July 18 2025', byline_age='9 months'), PerQueryResult(index='1.1.2', snippet='Kecurian termasuk apa sahaja yang melibatkan mengambil sesuatu daripada seseorang. Jadi penipuan, mencuri, memecah masuk, dll. Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah · Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah. Dalam tiga kategori yang lebih besar, anda boleh meletakkan kedudukan perkara mengikut cara yang ...', source_title='Pertuduhan Jenayah / Denda : r/DMAcademy - Reddit', url='https://www.reddit.com/r/DMAcademy/comments/18ykbqz/criminal_charges_fines/?tl=ms', publication_time='January 04 2024', byline_age='2 years 3 months'), PerQueryResult(index='1.1.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.1.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.1.5', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.1.6', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.1.7', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.1.8', snippet='Pertuduhan apakah yang selayaknya? Kecuaian? Tidak disengajakan? Mangsa meninggal disebabkan sikap tidak bertangungjawab, isteri menjadi balu, anak-anak menjadi yatim. Dan, Kes sebegini berulang-ulang terjadi disebabkan sikap tidak bertangungjawab.', source_title='SEMUA KES JENAYAH BOLEH DILAWAN, TAPI KALAU ...', url='https://www.instagram.com/reel/DV3Zr3TAV_h/', publication_time='March 14 2026', byline_age='6 weeks'), PerQueryResult(index='1.1.9', data_type='video', snippet='Pertuduhan dikemukakan mengikut Seksyen 302 Kanun Keseksaan yang memperuntukkan hukuman mati atau penjara tidak kurang 30 tahun dan tidak lebih ', source_title='Seorang pegawai tentera dihadapkan ke Mahkamah Majistret ...', url='https://www.instagram.com/reel/DXvkbIWCiNW/', publication_time='April 30 2026', byline_age='4 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvkbIWCiNW/}'), PerQueryResult(index='1.1.10', snippet='Platform Jabatan Siasatan Jenayah Komersil (JSJK / CCID Malaysia) untuk orang ramai membuat semakan akaun bank, nombor telefon dan nama syarikat yang digunakan untuk kes-kes jenayah komersil.', source_title='Semakmule: CCID Portal', url='https://semakmule.rmp.gov.my/'), PerQueryResult(index='1.1.11', data_type='video', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.1.12', data_type='video', snippet='  yang lalu. Saya menyampaikan sedikit sumbangan ... Mengikut dua pertuduhan, Ahmad Ruzaini yang pernah bertugas di Jabatan Siasatan Jenayah ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.instagram.com/reel/DXvsSdRESUZ/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvsSdRESUZ/}'), PerQueryResult(index='1.1.13', data_type='video', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.1.14', data_type='video', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.1.15', data_type='image', source_title='KERATAN AKHBAR PILIHAN: POLIS SELANGOR, BUKIT AMAN GIAT ...', url='https://www.facebook.com/pdrmsiaofficial/posts/keratan-akhbar-pilihan-polis-selangor-bukit-aman-giat-operasishah-alam-5-februar/XXXXXXXXXX/', scene_description='malaysian police officers in uniform at a press conference', content_placeholder='<<!floatImage(results=["1.1.15"])/>>'), PerQueryResult(index='1.1.16', data_type='image', source_title='𝗞𝗨𝗥𝗨𝗡𝗚 𝗜𝗡𝗗𝗜𝗩𝗜𝗗𝗨 𝗦𝗘𝗖𝗔𝗥𝗔 𝗦𝗔𝗟𝗔𝗛 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9E%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%A8-%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%96%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%94-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9B-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%9E-%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9A-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9B-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu/XXXXXXXXXX/', content_placeholder='<<!floatImage(results=["1.1.16"])/>>'), PerQueryResult(index='1.1.17', data_type='image', source_title='SEMUA KES <b>JENAYAH</b> BOLEH DILAWAN, TAPI KALAU TIADA ILMU ...', url='https://www.instagram.com/reel/DV3Zr3TAV_h/', scene_description='man speaking into a microphone at a press conference', content_placeholder='<<!floatImage(results=["1.1.17"])/>>'), PerQueryResult(index='1.1.18', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗧𝗘𝗥𝗟𝗜𝗕𝗔𝗧 𝗞𝗘𝗚𝗜𝗔𝗧𝗔𝗡 𝗦𝗔𝗠𝗨𝗡 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', scene_description='polis malaysia poster', content_placeholder='<<!floatImage(results=["1.1.18"])/>>'), PerQueryResult(index='1.1.19', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.1.19"])/>>'), PerQueryResult(index='1.1.20', data_type='image', source_title='<b>Jenayah</b> di kalangan budak sekolah semakin meningkat. <b>Apa</b> ...', url='https://www.instagram.com/reel/DP3OiIXEdIi/', scene_description='four women wearing hijabs pose for a photo', content_placeholder='<<!floatImage(results=["1.1.20"])/>>'), PerQueryResult(index='1.1.21', data_type='image', source_title='𝗧𝗘𝗠𝗕𝗔𝗞 𝗗𝗔𝗟𝗔𝗠 𝗟𝗢𝗥𝗜, 𝟯 𝗜𝗡𝗗𝗜𝗩𝗜𝗗𝗨 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A0%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9E-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%9F%AF-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%A8-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kuala-selangor-21-oktober-2025-susulan-kes-t/XXXXXXXXXX/', content_placeholder='<<!floatImage(results=["1.1.21"])/>>'), PerQueryResult(index='1.1.22', data_type='image', source_title='22 individu mengaku tidak bersalah <b>tuduhan jenayah</b> terancang ...', url='https://www.youtube.com/watch?v=CyhhqxQqY_0', scene_description='three men pose for a photo at an airport', content_placeholder='<<!floatImage(results=["1.1.22"])/>>'), PerQueryResult(index='1.1.23', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗠𝗜𝗟𝗜𝗞𝗜 𝟴 𝗥𝗘𝗞𝗢𝗗 <b>𝗝𝗘𝗡𝗔𝗬𝗔𝗛</b> ...', url='https://www.tiktok.com/@cidrmp/video/7573664556451384583', scene_description='indonesian police officers in blue uniforms', content_placeholder='<<!floatImage(results=["1.1.23"])/>>'), PerQueryResult(index='1.1.24', data_type='image', source_title='CEO GISBH, anak &#39;Abuya&#39; dan 20 individu tidak mengaku ahli ...', url='https://www.facebook.com/sinarharian/posts/ceo-gisbh-anak-abuya-dan-20-individu-tidak-mengaku-ahli-kumpulan-jenayah-teranca/XXXXXXXXXX/', scene_description='security guards escorting a man in handcuffs', content_placeholder='<<!floatImage(results=["1.1.24"])/>>'), PerQueryResult(index='1.1.25', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.1.25"])/>>'), PerQueryResult(index='1.1.26', data_type='image', source_title='𝗗𝗨𝗔 𝗜𝗡𝗗𝗜𝗩𝗜𝗗𝗨 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗦𝗘𝗡𝗝𝗔𝗧𝗔 𝗔𝗣𝗜 ...', url='https://www.facebook.com/cidrmp/videos/%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%94-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%A8-%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%94-%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%9D%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94-%F0%9D%97%94%F0%9D%97%A3%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94bachok-20-januari-2026-dua-lelaki/XXXXXXXXXX/', scene_description='cmco extend 9 nov 2020', content_placeholder='<<!floatImage(results=["1.1.26"])/>>'), PerQueryResult(index='1.1.27', data_type='image', source_title='KENYATAAN MEDIA Datuk Seri Ir. Dr. Wee Ka Siong Presiden MCA ...', url='https://www.facebook.com/wksbmenglish/posts/kenyataan-mediadatuk-seri-ir-dr-wee-ka-siongpresiden-mca-ahli-parlimen-ayer-hita/XXXXXXXXXX/', scene_description='Datuk Seri Ir. Dr. Wee Ka Siong, president of MCA', content_placeholder='<<!floatImage(results=["1.1.27"])/>>'), PerQueryResult(index='1.1.28', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.1.28"])/>>'), PerQueryResult(index='1.1.29', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗧𝗘𝗥𝗟𝗜𝗕𝗔𝗧 𝗞𝗘𝗚𝗜𝗔𝗧𝗔𝗡 𝗦𝗔𝗠𝗨𝗡 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', scene_description='man wearing a blue shirt is escorted by police officers', content_placeholder='<<!floatImage(results=["1.1.29"])/>>')]), SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.2.1', snippet='... dan tiga puluh empat tahun dihadapkan ke Mahkamah Sesyen dan Majistret Klang hari ini atas beberapa pertuduhan jenayah. Kedua-dua tertuduh didakwa di bawah Seksyen tiga sembilan lima palang satu tujuh kosong Kanun Keseksaan kerana melakukan samun berkumpulan dan menyamar sebagai anggota polis sabit kesalahan mereka boleh dipenjara sehingga tempoh dua puluh tahun dan sebat. Tertuduh pertama yang juga berdepan dengan pen di bawah Seksyen tiga tujuh enam kurungan dua kanun yang sama kerana merogol sabit kesalahan tertuduh juga boleh dipenjara sehingga tempoh tiga puluh tahun dan juga sebatan. Mengikut fakta kes yang telah dikemukakan pada awal pagi lapan belas Januari yang lalu sekitar jam dua pagi mangsa ...', source_title='dua tertuduh didakwa di bawah Seksyen 395/170 Kanun ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%9A%F0%9D%97%A2%F0%9D%97%9F-%F0%9D%97%97%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A5-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%A6%F0%9D%97%A8-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94klang-27-januari-2026-dua-le/XXXXXXXXXX/', publication_time='January 27 2026', byline_age='3 months'), PerQueryResult(index='1.2.2', snippet='Video Transcript: Lelaki terlibat kegiatan samun didakwa. Kota Bharu dua puluh empat Februari dua ribu dua puluh enam. Seorang lelaki tempatan berusia tiga puluh tujuh tahun dengan beberapa rekod jenayah lampau telah dihadapkan ke Mahkamah Majistret dan Mahkamah Sesyen Kota Bharu hari ini atas pertuduhan cubaan samun dan samun di sekitar daerah ini pada sepuluh Februari yang lalu. Pendakwaan dikemukakan di bawah Seksyen tiga sembilan tiga dan Seksyen Tiga Sembilan Empat Kanun Keseksaan bagi kesalahan di bawah Seksyen tiga sembilan tiga satu dua boleh dipu sehingga tempoh tujuh tahun penjara dan denda manakala bagi pertuduhan di bawah Seksyen tiga sembilan empat Kanun Keseksaan tertuduh berdepan hukuman ...', source_title='LELAKI TERLIBAT KEGIATAN SAMUN DIDAKWA ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', publication_time='February 24 2026', byline_age='9 weeks'), PerQueryResult(index='1.2.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.2.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.2.5', snippet='Apa akan berlaku sekiranya saudara saya mengaku salah terhadap pertuduhan? Pengakuan salah dibuat selepas dituduh di Mahkamah. Perkara ini berbeza daripada pengakuan yang diberikan oleh seorang saspek yang sedang disiasat oleh polis. Sekiranya OKT mengaku salah terhadap pertuduhan, Mahkamah boleh terus mensabitkan OKT dan menjatuhkan hukuman. Ini adalah kerana suatu pengakuan salah oleh OKT terjumlah kepada suatu pengakuan yang menyeluruh dan muktamad terhadap dakwaan yang dikemukakan oleh Kerajaan. Sekiranya Mahkamah tidak dapat meneruskan dengan peringkat jatuh hukum pada tarikh yang sama, Mahkamah boleh mempertimbangkan untuk melepaskan OKT dengan jamin sementara menunggu tarikh jatuh hukum.', source_title='SOALAN-SOALAN LAZIM BERKENAAN KES JENAYAH', url='https://www.arikzakri.com/ariks-writings/soalan-soalan-lazim-berkenaan-kes-jenayah', publication_time='December 14 2021', byline_age='4 years 4 months'), PerQueryResult(index='1.2.6', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.2.7', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.2.8', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.2.9', data_type='video', snippet='Polis membuka kertas siasatan kes bunuh terhadap pegawai tentera yang ditahan kerana disyaki memandu di bawah pengaruh alkohol sehingga ', source_title='Pegawai tentera berpangkat kapten, didakwa di Mahkamah ...', url='https://www.instagram.com/reel/DXvZ-A-vZpe/', publication_time='April 30 2026', byline_age='31 minutes', links='{Link: Instagram https://www.instagram.com/reel/DXvZ-A-vZpe/}'), PerQueryResult(index='1.2.10', snippet='Akta Polis 1967, Seksyen 3(3) menyebutkan bahawa antara tugas pasukan polis ialah mencegah, mengesan jenayah, menangkap dan mendakwa pesalah. Jabatan Siasatan Jenayah dipertanggungjawabkan untuk menyempurnakan tugas-tugas tersebut. Jabatan Siasatan Jenayah diketuai oleh seorang Pengarah yang berpangkat Komisioner Polis dan dibantu oleh empat orang Timbalan Pengarah dibawahnya, iaitu Timbalan Pengarah Siasatan Jenayah (Risikan / Operasi), Timbalan Pengarah Siasatan Jenayah (Siasatan / Perundangan), Timbalan Pengarah Siasatan Jenayah (Jenayah Terancang), Timbalan Pengarah Siasatan Jenayah (Forensik / Databank / DNA / Perancangan Strategi). Visi Membebaskan negara dan dan masyarakat Malaysia dari jenayah agar ...', source_title='Jabatan Siasatan Jenayah (JSJ) - PDRM', url='https://www.rmp.gov.my/infor-korporate/jabatan---jabatan/jabatan-siasatan-jenayah'), PerQueryResult(index='1.2.11', data_type='video', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.2.12', data_type='video', snippet='Pegawai tentera yang memandu dalam keadaan mabuk sehingga menyebabkan kematian seorang lelaki warga Bangladesh di Lebuhraya Maju 23 April ', source_title='Kapten tentera didakwa atas pertuduhan bunuh warga ...', url='https://www.instagram.com/reel/DXvgaJYvisC/', publication_time='April 30 2026', byline_age='5 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvgaJYvisC/}'), PerQueryResult(index='1.2.13', data_type='video', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.2.14', data_type='video', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.2.15', data_type='image', source_title='KERATAN AKHBAR PILIHAN: POLIS SELANGOR, BUKIT AMAN GIAT ...', url='https://www.facebook.com/pdrmsiaofficial/posts/keratan-akhbar-pilihan-polis-selangor-bukit-aman-giat-operasishah-alam-5-februar/XXXXXXXXXX/', scene_description='malaysian police officers in uniform at a press conference', content_placeholder='<<!floatImage(results=["1.2.15"])/>>'), PerQueryResult(index='1.2.16', data_type='image', source_title='12 Individu Didakwa Ahli Geng <b>Jenayah</b> Terancang di Johor ...', url='https://www.tiktok.com/@malaysiagazette/video/7605927934997630228', scene_description='man in a black t-shirt speaks into a microphone', content_placeholder='<<!floatImage(results=["1.2.16"])/>>'), PerQueryResult(index='1.2.17', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗧𝗘𝗥𝗟𝗜𝗕𝗔𝗧 𝗞𝗘𝗚𝗜𝗔𝗧𝗔𝗡 𝗦𝗔𝗠𝗨𝗡 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', scene_description='polis malaysia poster', content_placeholder='<<!floatImage(results=["1.2.17"])/>>'), PerQueryResult(index='1.2.18', data_type='image', source_title='Pendakwah bebas, Zamri Vinoth didakwa di Mahkamah Majistret ...', url='https://www.instagram.com/reel/DV-EXVgFLC8/', scene_description='man in a suit speaks into a microphone at an outdoor event', content_placeholder='<<!floatImage(results=["1.2.18"])/>>'), PerQueryResult(index='1.2.19', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.2.19"])/>>'), PerQueryResult(index='1.2.20', data_type='image', source_title='Enam Individu Dihadapkan di Mahkamah atas <b>Tuduhan Jenayah</b> ...', url='https://www.tiktok.com/@501awani/video/7605912024597417236', scene_description='man in orange jumpsuit being escorted by police officers', content_placeholder='<<!floatImage(results=["1.2.20"])/>>'), PerQueryResult(index='1.2.21', data_type='image', source_title='<b>Jenayah</b> di kalangan budak sekolah semakin meningkat. <b>Apa</b> ...', url='https://www.instagram.com/reel/DP3OiIXEdIi/', scene_description='four women wearing hijabs pose for a photo', content_placeholder='<<!floatImage(results=["1.2.21"])/>>'), PerQueryResult(index='1.2.22', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗠𝗜𝗟𝗜𝗞𝗜 𝟴 𝗥𝗘𝗞𝗢𝗗 <b>𝗝𝗘𝗡𝗔𝗬𝗔𝗛</b> ...', url='https://www.tiktok.com/@cidrmp/video/7573664556451384583', scene_description='indonesian police officers in blue uniforms', content_placeholder='<<!floatImage(results=["1.2.22"])/>>'), PerQueryResult(index='1.2.23', data_type='image', source_title='22 individu mengaku tidak bersalah <b>tuduhan jenayah</b> terancang ...', url='https://www.youtube.com/watch?v=CyhhqxQqY_0', scene_description='three men pose for a photo at an airport', content_placeholder='<<!floatImage(results=["1.2.23"])/>>'), PerQueryResult(index='1.2.24', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.2.24"])/>>'), PerQueryResult(index='1.2.25', data_type='image', source_title='𝗦𝗔𝗠𝗨𝗡 𝗗𝗔𝗡 𝗥𝗢𝗚𝗢𝗟 𝗗𝗜 𝗣𝗔𝗥𝗞𝗜𝗥 𝗞𝗘𝗥𝗘𝗧𝗔 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%9A%F0%9D%97%A2%F0%9D%97%9F-%F0%9D%97%97%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A5-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%A6%F0%9D%97%A8-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94klang-27-januari-2026-dua-le/XXXXXXXXXX/', scene_description='police officers in a police station', content_placeholder='<<!floatImage(results=["1.2.25"])/>>'), PerQueryResult(index='1.2.26', data_type='image', source_title='<b>SAYA</b> DENGAN HORMAT MENCADANGKAN TIADA <b>APA</b>-<b>APA PERTUDUHAN</b> ...', url='https://www.instagram.com/p/DLuP650JJag/', content_placeholder='<<!floatImage(results=["1.2.26"])/>>'), PerQueryResult(index='1.2.27', data_type='image', source_title='𝗟𝗘𝗟𝗔𝗞𝗜 𝗧𝗘𝗥𝗟𝗜𝗕𝗔𝗧 𝗞𝗘𝗚𝗜𝗔𝗧𝗔𝗡 𝗦𝗔𝗠𝗨𝗡 ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', scene_description='man wearing a blue shirt is escorted by police officers', content_placeholder='<<!floatImage(results=["1.2.27"])/>>'), PerQueryResult(index='1.2.28', data_type='image', source_title='NFA 47 <b>PERTUDUHAN</b> ZAHID HAMIDI KEPUTUSAN ANEH DAN PELIK ...', url='https://www.facebook.com/InspirasiChannelz/videos/nfa-47-pertuduhan-zahid-hamidi-keputusan-aneh-dan-pelikpeguam-kanan-cabar-peguam/XXXXXXXXXX/', scene_description='man in a suit speaks into a microphone at a press conference', content_placeholder='<<!floatImage(results=["1.2.28"])/>>'), PerQueryResult(index='1.2.29', data_type='image', source_title='Enam Individu Didakwa Kumpulan <b>Jenayah</b> Terancang di Johor ...', url='https://www.tiktok.com/@cidrmp/video/7605965492003687687', scene_description='mediacid pdrm force logo with police officer', content_placeholder='<<!floatImage(results=["1.2.29"])/>>')])]{{MASKED_6}}}{{MASKED_5}}
+Step 1 Tool Outputs:
+{{MASKED_4}}response:google:search{result:{{MASKED_6}}[SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.1.1', snippet='Pertuduhan dikemukakan di bawah Seksyen tiga lima tiga Kanun Keseksaan sabit kesalahan, tertuduh boleh dihukum penjara sehingga tempoh tahun atau denda atau kedua- duanya sekali. Kejadian tular memperlihatkan tertuduh memegang sebilah parang panjang dalam usaha menghalang penguat kuasa Dewan Bandaraya Kuala Lumpur melaksanakan Ops Roboh di sekitar Desa Pandan pada pagi lima belas Julai yang lalu. Tertuduh juga dilihat melibas parang sambil memaki petugas DBKL yang berada di lokasi kejadian. Tertuduh di kemudiannya berjaya ditenangkan orang ramai selepas beberapa ketika sebelum dibawa beredar dari lokasi kejadian. Bertindak atas maklumat dan laporan yang diperolehi sepasukan pegawai dan anggota dari Balai ...', source_title='LELAKI AMUK DESA PANDAN MENGAKU TIDAK ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%9E-%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%A8-%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E-%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9Bkuala-lumpur-18-julai-2025-angkara/XXXXXXXXXX/', publication_time='July 18 2025', byline_age='9 months'), PerQueryResult(index='1.1.2', snippet='Kecurian termasuk apa sahaja yang melibatkan mengambil sesuatu daripada seseorang. Jadi penipuan, mencuri, memecah masuk, dll. Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah · Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah. Dalam tiga kategori yang lebih besar, anda boleh meletakkan kedudukan perkara mengikut cara yang ...', source_title='Pertuduhan Jenayah / Denda : r/DMAcademy - Reddit', url='https://www.reddit.com/r/DMAcademy/comments/18ykbqz/criminal_charges_fines/?tl=ms', publication_time='January 04 2024', byline_age='2 years 3 months'), PerQueryResult(index='1.1.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.1.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.1.5', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.1.6', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.1.7', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.1.8', snippet='Pertuduhan apakah yang selayaknya? Kecuaian? Tidak disengajakan? Mangsa meninggal disebabkan sikap tidak bertangungjawab, isteri menjadi balu, anak-anak menjadi yatim. Dan, Kes sebegini berulang-ulang terjadi disebabkan sikap tidak bertangungjawab.', source_title='SEMUA KES JENAYAH BOLEH DILAWAN, TAPI KALAU ...', url='https://www.instagram.com/reel/DV3Zr3TAV_h/', publication_time='March 14 2026', byline_age='6 weeks'), PerQueryResult(index='1.1.9', snippet='Pertuduhan dikemukakan mengikut Seksyen 302 Kanun Keseksaan yang memperuntukkan hukuman mati atau penjara tidak kurang 30 tahun dan tidak lebih ', source_title='Seorang pegawai tentera dihadapkan ke Mahkamah Majistret ...', url='https://www.instagram.com/reel/DXvkbIWCiNW/', publication_time='April 30 2026', byline_age='4 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvkbIWCiNW/}'), PerQueryResult(index='1.1.10', snippet='Platform Jabatan Siasatan Jenayah Komersil (JSJK / CCID Malaysia) untuk orang ramai membuat semakan akaun bank, nombor telefon dan nama syarikat yang digunakan untuk kes-kes jenayah komersil.', source_title='Semakmule: CCID Portal', url='https://semakmule.rmp.gov.my/'), PerQueryResult(index='1.1.11', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.1.12', snippet='  yang lalu. Saya menyampaikan sedikit sumbangan ... Mengikut dua pertuduhan, Ahmad Ruzaini yang pernah bertugas di Jabatan Siasatan Jenayah ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.instagram.com/reel/DXvsSdRESUZ/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvsSdRESUZ/}'), PerQueryResult(index='1.1.13', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.1.14', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.1.15', data_type='image', image_height='509', image_width='603', scene_description='malaysian police officers in uniform at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.1.16', data_type='image', image_height='739', image_width='415', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.17', data_type='image', image_height='738', image_width='416', scene_description='man speaking into a microphone at a press conference', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3852660971713683425'), PerQueryResult(index='1.1.18', data_type='image', image_height='739', image_width='415', scene_description='polis malaysia poster', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.19', data_type='image', image_height='477', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756269121241'), PerQueryResult(index='1.1.20', data_type='image', image_height='619', image_width='495', scene_description='four women wearing hijabs pose for a photo', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744525533272199714'), PerQueryResult(index='1.1.21', data_type='image', image_height='739', image_width='415', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.22', data_type='image', image_height='386', image_width='686', scene_description='three men pose for a photo at an airport', image_url='https://i.ytimg.com/vi/CyhhqxQqY_0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl7-QFuuK9KF3SsU7tPTNRxRvL9g'), PerQueryResult(index='1.1.23', data_type='image', image_height='738', image_width='415', scene_description='indonesian police officers in blue uniforms', image_url='https://www.tiktok.com/api/img/?itemId=7573664556451384583&location=0&aid=1988'), PerQueryResult(index='1.1.24', data_type='image', image_height='415', image_width='738', scene_description='security guards escorting a man in handcuffs', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.25', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756311172014'), PerQueryResult(index='1.1.26', data_type='image', image_height='739', image_width='415', scene_description='cmco extend 9 nov 2020', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.27', data_type='image', image_height='185', image_width='272', scene_description='Datuk Seri Ir. Dr. Wee Ka Siong, president of MCA', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.1.28', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756319308938'), PerQueryResult(index='1.1.29', data_type='image', image_height='739', image_width='415', scene_description='man wearing a blue shirt is escorted by police officers', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1')]), SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.2.1', snippet='... dan tiga puluh empat tahun dihadapkan ke Mahkamah Sesyen dan Majistret Klang hari ini atas beberapa pertuduhan jenayah. Kedua-dua tertuduh didakwa di bawah Seksyen tiga sembilan lima palang satu tujuh kosong Kanun Keseksaan kerana melakukan samun berkumpulan dan menyamar sebagai anggota polis sabit kesalahan mereka boleh dipenjara sehingga tempoh dua puluh tahun dan sebat. Tertuduh pertama yang juga berdepan dengan pen di bawah Seksyen tiga tujuh enam kurungan dua kanun yang sama kerana merogol sabit kesalahan tertuduh juga boleh dipenjara sehingga tempoh tiga puluh tahun dan juga sebatan. Mengikut fakta kes yang telah dikemukakan pada awal pagi lapan belas Januari yang lalu sekitar jam dua pagi mangsa ...', source_title='dua tertuduh didakwa di bawah Seksyen 395/170 Kanun ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%9A%F0%9D%97%A2%F0%9D%97%9F-%F0%9D%97%97%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A5-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%A6%F0%9D%97%A8-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94klang-27-januari-2026-dua-le/XXXXXXXXXX/', publication_time='January 27 2026', byline_age='3 months'), PerQueryResult(index='1.2.2', snippet='Video Transcript: Lelaki terlibat kegiatan samun didakwa. Kota Bharu dua puluh empat Februari dua ribu dua puluh enam. Seorang lelaki tempatan berusia tiga puluh tujuh tahun dengan beberapa rekod jenayah lampau telah dihadapkan ke Mahkamah Majistret dan Mahkamah Sesyen Kota Bharu hari ini atas pertuduhan cubaan samun dan samun di sekitar daerah ini pada sepuluh Februari yang lalu. Pendakwaan dikemukakan di bawah Seksyen tiga sembilan tiga dan Seksyen Tiga Sembilan Empat Kanun Keseksaan bagi kesalahan di bawah Seksyen tiga sembilan tiga satu dua boleh dipu sehingga tempoh tujuh tahun penjara dan denda manakala bagi pertuduhan di bawah Seksyen tiga sembilan empat Kanun Keseksaan tertuduh berdepan hukuman ...', source_title='LELAKI TERLIBAT KEGIATAN SAMUN DIDAKWA ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', publication_time='February 24 2026', byline_age='9 weeks'), PerQueryResult(index='1.2.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.2.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.2.5', snippet='Apa akan berlaku sekiranya saudara saya mengaku salah terhadap pertuduhan? Pengakuan salah dibuat selepas dituduh di Mahkamah. Perkara ini berbeza daripada pengakuan yang diberikan oleh seorang saspek yang sedang disiasat oleh polis. Sekiranya OKT mengaku salah terhadap pertuduhan, Mahkamah boleh terus mensabitkan OKT dan menjatuhkan hukuman. Ini adalah kerana suatu pengakuan salah oleh OKT terjumlah kepada suatu pengakuan yang menyeluruh dan muktamad terhadap dakwaan yang dikemukakan oleh Kerajaan. Sekiranya Mahkamah tidak dapat meneruskan dengan peringkat jatuh hukum pada tarikh yang sama, Mahkamah boleh mempertimbangkan untuk melepaskan OKT dengan jamin sementara menunggu tarikh jatuh hukum.', source_title='SOALAN-SOALAN LAZIM BERKENAAN KES JENAYAH', url='https://www.arikzakri.com/ariks-writings/soalan-soalan-lazim-berkenaan-kes-jenayah', publication_time='December 14 2021', byline_age='4 years 4 months'), PerQueryResult(index='1.2.6', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.2.7', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.2.8', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.2.9', snippet='Polis membuka kertas siasatan kes bunuh terhadap pegawai tentera yang ditahan kerana disyaki memandu di bawah pengaruh alkohol sehingga ', source_title='Pegawai tentera berpangkat kapten, didakwa di Mahkamah ...', url='https://www.instagram.com/reel/DXvZ-A-vZpe/', publication_time='April 30 2026', byline_age='31 minutes', links='{Link: Instagram https://www.instagram.com/reel/DXvZ-A-vZpe/}'), PerQueryResult(index='1.2.10', snippet='Akta Polis 1967, Seksyen 3(3) menyebutkan bahawa antara tugas pasukan polis ialah mencegah, mengesan jenayah, menangkap dan mendakwa pesalah. Jabatan Siasatan Jenayah dipertanggungjawabkan untuk menyempurnakan tugas-tugas tersebut. Jabatan Siasatan Jenayah diketuai oleh seorang Pengarah yang berpangkat Komisioner Polis dan dibantu oleh empat orang Timbalan Pengarah dibawahnya, iaitu Timbalan Pengarah Siasatan Jenayah (Risikan / Operasi), Timbalan Pengarah Siasatan Jenayah (Siasatan / Perundangan), Timbalan Pengarah Siasatan Jenayah (Jenayah Terancang), Timbalan Pengarah Siasatan Jenayah (Forensik / Databank / DNA / Perancangan Strategi). Visi Membebaskan negara dan dan masyarakat Malaysia dari jenayah agar ...', source_title='Jabatan Siasatan Jenayah (JSJ) - PDRM', url='https://www.rmp.gov.my/infor-korporate/jabatan---jabatan/jabatan-siasatan-jenayah'), PerQueryResult(index='1.2.11', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.2.12', snippet='Pegawai tentera yang memandu dalam keadaan mabuk sehingga menyebabkan kematian seorang lelaki warga Bangladesh di Lebuhraya Maju 23 April ', source_title='Kapten tentera didakwa atas pertuduhan bunuh warga ...', url='https://www.instagram.com/reel/DXvgaJYvisC/', publication_time='April 30 2026', byline_age='5 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvgaJYvisC/}'), PerQueryResult(index='1.2.13', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.2.14', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.2.15', data_type='image', image_height='509', image_width='603', scene_description='malaysian police officers in uniform at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.2.16', data_type='image', image_height='640', image_width='480', scene_description='man in a black t-shirt speaks into a microphone', image_url='https://www.tiktok.com/api/img/?itemId=7605927934997630228&location=0&aid=1988'), PerQueryResult(index='1.2.17', data_type='image', image_height='739', image_width='415', scene_description='polis malaysia poster', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.18', data_type='image', image_height='738', image_width='416', scene_description='man in a suit speaks into a microphone at an outdoor event', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3854537526896537788'), PerQueryResult(index='1.2.19', data_type='image', image_height='477', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756269121241'), PerQueryResult(index='1.2.20', data_type='image', image_height='639', image_width='480', scene_description='man in orange jumpsuit being escorted by police officers', image_url='https://www.tiktok.com/api/img/?itemId=7605912024597417236&location=0&aid=1988'), PerQueryResult(index='1.2.21', data_type='image', image_height='619', image_width='495', scene_description='four women wearing hijabs pose for a photo', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744525533272199714'), PerQueryResult(index='1.2.22', data_type='image', image_height='738', image_width='415', scene_description='indonesian police officers in blue uniforms', image_url='https://www.tiktok.com/api/img/?itemId=7573664556451384583&location=0&aid=1988'), PerQueryResult(index='1.2.23', data_type='image', image_height='386', image_width='686', scene_description='three men pose for a photo at an airport', image_url='https://i.ytimg.com/vi/CyhhqxQqY_0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl7-QFuuK9KF3SsU7tPTNRxRvL9g'), PerQueryResult(index='1.2.24', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756311172014'), PerQueryResult(index='1.2.25', data_type='image', image_height='739', image_width='415', scene_description='police officers in a police station', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.26', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756319308938'), PerQueryResult(index='1.2.27', data_type='image', image_height='739', image_width='415', scene_description='man wearing a blue shirt is escorted by police officers', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.28', data_type='image', image_height='554', image_width='554', scene_description='man in a suit speaks into a microphone at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.29', data_type='image', image_height='738', image_width='415', scene_description='mediacid pdrm force logo with police officer', image_url='https://www.tiktok.com/api/img/?itemId=7605965492003687687&location=0&aid=1988')])]{{MASKED_6}}}{{MASKED_5}}
+Step 1 Tool Outputs With Pcontext Formatter:
+{{MASKED_4}}response:google:search{result:{{MASKED_6}}[SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.1.1', snippet='Pertuduhan dikemukakan di bawah Seksyen tiga lima tiga Kanun Keseksaan sabit kesalahan, tertuduh boleh dihukum penjara sehingga tempoh tahun atau denda atau kedua- duanya sekali. Kejadian tular memperlihatkan tertuduh memegang sebilah parang panjang dalam usaha menghalang penguat kuasa Dewan Bandaraya Kuala Lumpur melaksanakan Ops Roboh di sekitar Desa Pandan pada pagi lima belas Julai yang lalu. Tertuduh juga dilihat melibas parang sambil memaki petugas DBKL yang berada di lokasi kejadian. Tertuduh di kemudiannya berjaya ditenangkan orang ramai selepas beberapa ketika sebelum dibawa beredar dari lokasi kejadian. Bertindak atas maklumat dan laporan yang diperolehi sepasukan pegawai dan anggota dari Balai ...', source_title='LELAKI AMUK DESA PANDAN MENGAKU TIDAK ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%9E-%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%A8-%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E-%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9Bkuala-lumpur-18-julai-2025-angkara/XXXXXXXXXX/', publication_time='July 18 2025', byline_age='9 months'), PerQueryResult(index='1.1.2', snippet='Kecurian termasuk apa sahaja yang melibatkan mengambil sesuatu daripada seseorang. Jadi penipuan, mencuri, memecah masuk, dll. Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah · Serangan termasuk apa sahaja yang melibatkan kekerasan fizikal terhadap orang lain. Pembunuhan adalah mengambil nyawa tanpa kebenaran daripada pihak berkuasa yang lebih besar. Itulah garis panduan "kasar" umum tentang cara mengendalikan jenayah. Dalam tiga kategori yang lebih besar, anda boleh meletakkan kedudukan perkara mengikut cara yang ...', source_title='Pertuduhan Jenayah / Denda : r/DMAcademy - Reddit', url='https://www.reddit.com/r/DMAcademy/comments/18ykbqz/criminal_charges_fines/?tl=ms', publication_time='January 04 2024', byline_age='2 years 3 months'), PerQueryResult(index='1.1.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.1.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.1.5', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.1.6', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.1.7', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.1.8', snippet='Pertuduhan apakah yang selayaknya? Kecuaian? Tidak disengajakan? Mangsa meninggal disebabkan sikap tidak bertangungjawab, isteri menjadi balu, anak-anak menjadi yatim. Dan, Kes sebegini berulang-ulang terjadi disebabkan sikap tidak bertangungjawab.', source_title='SEMUA KES JENAYAH BOLEH DILAWAN, TAPI KALAU ...', url='https://www.instagram.com/reel/DV3Zr3TAV_h/', publication_time='March 14 2026', byline_age='6 weeks'), PerQueryResult(index='1.1.9', snippet='Pertuduhan dikemukakan mengikut Seksyen 302 Kanun Keseksaan yang memperuntukkan hukuman mati atau penjara tidak kurang 30 tahun dan tidak lebih ', source_title='Seorang pegawai tentera dihadapkan ke Mahkamah Majistret ...', url='https://www.instagram.com/reel/DXvkbIWCiNW/', publication_time='April 30 2026', byline_age='4 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvkbIWCiNW/}'), PerQueryResult(index='1.1.10', snippet='Platform Jabatan Siasatan Jenayah Komersil (JSJK / CCID Malaysia) untuk orang ramai membuat semakan akaun bank, nombor telefon dan nama syarikat yang digunakan untuk kes-kes jenayah komersil.', source_title='Semakmule: CCID Portal', url='https://semakmule.rmp.gov.my/'), PerQueryResult(index='1.1.11', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.1.12', snippet='  yang lalu. Saya menyampaikan sedikit sumbangan ... Mengikut dua pertuduhan, Ahmad Ruzaini yang pernah bertugas di Jabatan Siasatan Jenayah ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.instagram.com/reel/DXvsSdRESUZ/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvsSdRESUZ/}'), PerQueryResult(index='1.1.13', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.1.14', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.1.15', data_type='image', image_height='509', image_width='603', scene_description='malaysian police officers in uniform at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.1.16', data_type='image', image_height='739', image_width='415', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.17', data_type='image', image_height='738', image_width='416', scene_description='man speaking into a microphone at a press conference', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3852660971713683425'), PerQueryResult(index='1.1.18', data_type='image', image_height='739', image_width='415', scene_description='polis malaysia poster', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.19', data_type='image', image_height='477', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756269121241'), PerQueryResult(index='1.1.20', data_type='image', image_height='619', image_width='495', scene_description='four women wearing hijabs pose for a photo', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744525533272199714'), PerQueryResult(index='1.1.21', data_type='image', image_height='739', image_width='415', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.22', data_type='image', image_height='386', image_width='686', scene_description='three men pose for a photo at an airport', image_url='https://i.ytimg.com/vi/CyhhqxQqY_0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl7-QFuuK9KF3SsU7tPTNRxRvL9g'), PerQueryResult(index='1.1.23', data_type='image', image_height='738', image_width='415', scene_description='indonesian police officers in blue uniforms', image_url='https://www.tiktok.com/api/img/?itemId=7573664556451384583&location=0&aid=1988'), PerQueryResult(index='1.1.24', data_type='image', image_height='415', image_width='738', scene_description='security guards escorting a man in handcuffs', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.25', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756311172014'), PerQueryResult(index='1.1.26', data_type='image', image_height='739', image_width='415', scene_description='cmco extend 9 nov 2020', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.1.27', data_type='image', image_height='185', image_width='272', scene_description='Datuk Seri Ir. Dr. Wee Ka Siong, president of MCA', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.1.28', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756319308938'), PerQueryResult(index='1.1.29', data_type='image', image_height='739', image_width='415', scene_description='man wearing a blue shirt is escorted by police officers', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1')]), SearchResults(query='Apa pertuduhan jenayah saya yang lalu?', results=[PerQueryResult(index='1.2.1', snippet='... dan tiga puluh empat tahun dihadapkan ke Mahkamah Sesyen dan Majistret Klang hari ini atas beberapa pertuduhan jenayah. Kedua-dua tertuduh didakwa di bawah Seksyen tiga sembilan lima palang satu tujuh kosong Kanun Keseksaan kerana melakukan samun berkumpulan dan menyamar sebagai anggota polis sabit kesalahan mereka boleh dipenjara sehingga tempoh dua puluh tahun dan sebat. Tertuduh pertama yang juga berdepan dengan pen di bawah Seksyen tiga tujuh enam kurungan dua kanun yang sama kerana merogol sabit kesalahan tertuduh juga boleh dipenjara sehingga tempoh tiga puluh tahun dan juga sebatan. Mengikut fakta kes yang telah dikemukakan pada awal pagi lapan belas Januari yang lalu sekitar jam dua pagi mangsa ...', source_title='dua tertuduh didakwa di bawah Seksyen 395/170 Kanun ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%9A%F0%9D%97%A2%F0%9D%97%9F-%F0%9D%97%97%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A5-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A7%F0%9D%97%94-%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%A6%F0%9D%97%A8-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94klang-27-januari-2026-dua-le/XXXXXXXXXX/', publication_time='January 27 2026', byline_age='3 months'), PerQueryResult(index='1.2.2', snippet='Video Transcript: Lelaki terlibat kegiatan samun didakwa. Kota Bharu dua puluh empat Februari dua ribu dua puluh enam. Seorang lelaki tempatan berusia tiga puluh tujuh tahun dengan beberapa rekod jenayah lampau telah dihadapkan ke Mahkamah Majistret dan Mahkamah Sesyen Kota Bharu hari ini atas pertuduhan cubaan samun dan samun di sekitar daerah ini pada sepuluh Februari yang lalu. Pendakwaan dikemukakan di bawah Seksyen tiga sembilan tiga dan Seksyen Tiga Sembilan Empat Kanun Keseksaan bagi kesalahan di bawah Seksyen tiga sembilan tiga satu dua boleh dipu sehingga tempoh tujuh tahun penjara dan denda manakala bagi pertuduhan di bawah Seksyen tiga sembilan empat Kanun Keseksaan tertuduh berdepan hukuman ...', source_title='LELAKI TERLIBAT KEGIATAN SAMUN DIDAKWA ...', url='https://www.facebook.com/cidrmp/posts/%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C-%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%95%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%9E%F0%9D%97%98%F0%9D%97%9A%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A1-%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%AA%F0%9D%97%94kota-bharu-24-februari-2026-seorang-lelaki/XXXXXXXXXX/', publication_time='February 24 2026', byline_age='9 weeks'), PerQueryResult(index='1.2.3', snippet='apa-apa soalan yang jawapannya mungkin mendedahkan anda kepada suatu pertuduhan jenayah atau penalti atau rampasan; b) Sebarang pernyataan dalam penyiasatan yang diberikan oleh anda kepada pegawai penyiasat perlu dibaca semula kepada anda dalam bahasa yang anda fahami. c). Anda berhak untuk membuat sebarang pembetulan atau perubahan yang anda mahu terhadap pernyataan tersebut sebelum anda menandatangani atau menurunkan cap jari; d) Anda berhak untuk menggunakan bahasa yang anda pilih semasa memberi apa-apa pernyataan kepada pegawai penyiasat. Jika pegawai penyiasat tidak dapat bercakap dalam bahasa yang anda pilih, maka seorang jurubahasa perlu dipanggil untuk tersebut;.', source_title='15. HAK ANDA SEBELUM PERBICARAAN (FA)', url='https://www.jbg.gov.my/images/doc/risalah/2025/15.%20HAK%20ANDA%20SEBELUM%20PERBICARAAN%20(FA).pdf'), PerQueryResult(index='1.2.4', snippet='"Saya terpanggil menjelaskan kerana memang tanggungjawab kita untuk menjelaskan apa yang diperkatakan di media sosial," katanya. Mengulas kenyataan peguam yang mendakwa wanita itu tidak mempunyai sebarang rekod jenayah dan tidak pernah ditangkap, Dzulkhairi menegaskan dakwaan itu tidak tepat. "Dia kata individu itu tidak pernah ditangkap, kalau tidak pernah ditangkap, bagaimana ada rekod tangkapan? "Memang ada 10 rekod tangkapan," katanya. Beliau menjelaskan bahawa tidak semua tangkapan akan membawa kepada pertuduhan di mahkamah, namun ia tetap direkodkan oleh pihak polis. "Setiap tangkapan itu tak semestinya ada pertuduhan, tapi kalau setakat ambil keterangan, ia tidak masuk dalam rekod.', source_title='\'Kalau saya salah, saman saya\' - Ketua Polis Melaka pertahan ...', url='https://www.hmetro.com.my/utama/2025/12/1300945/kalau-saya-salah-saman-saya-ketua-polis-melaka-pertahan-kenyataan', publication_time='December 16 2025', byline_age='4 months'), PerQueryResult(index='1.2.5', snippet='Apa akan berlaku sekiranya saudara saya mengaku salah terhadap pertuduhan? Pengakuan salah dibuat selepas dituduh di Mahkamah. Perkara ini berbeza daripada pengakuan yang diberikan oleh seorang saspek yang sedang disiasat oleh polis. Sekiranya OKT mengaku salah terhadap pertuduhan, Mahkamah boleh terus mensabitkan OKT dan menjatuhkan hukuman. Ini adalah kerana suatu pengakuan salah oleh OKT terjumlah kepada suatu pengakuan yang menyeluruh dan muktamad terhadap dakwaan yang dikemukakan oleh Kerajaan. Sekiranya Mahkamah tidak dapat meneruskan dengan peringkat jatuh hukum pada tarikh yang sama, Mahkamah boleh mempertimbangkan untuk melepaskan OKT dengan jamin sementara menunggu tarikh jatuh hukum.', source_title='SOALAN-SOALAN LAZIM BERKENAAN KES JENAYAH', url='https://www.arikzakri.com/ariks-writings/soalan-soalan-lazim-berkenaan-kes-jenayah', publication_time='December 14 2021', byline_age='4 years 4 months'), PerQueryResult(index='1.2.6', snippet='Sekiranya tidak mampu untuk ikat jamin, OKT akan direman sehingga kes selesai. Tiada rekod jenayah selagi OKT tidak mengaku salah atau tidak di dapati bersalah. Untuk membebaskan OKT tiada cara lain melainkan lawan kes sehingga dibuktikan tidak bersalah. Atikah says: March 16, 2022 at 8:32 am. Assalamualaikum tuan. Saya nak bertanya suami saya ditangkap atas tuduhan mencuri barangan kilang, dan direman selama seminggu sekiranya dia didapati bersalah dn dibicara dimakamah, seterusnya disuruh bayar denda kemudian adakah dia akan dipenjarakan juga.akan tetapi isteri kepada persalah sedang sarat mengandung dan akan bersalin pada bulan hadapannya dapat ke suami dibebaskan. Alif Tarmizi says:.', source_title='APAKAH YANG ANDA PERLU TAHU TENTANG REMAN', url='https://peguamjenayah.com/apakah-yang-anda-perlu-tahu-tentang-reman/', publication_time='May 28 2021', byline_age='4 years 11 months'), PerQueryResult(index='1.2.7', snippet='PROSIDING JENAYAH. APA ITU PROSIDING JENAYAH? INFORMASI. GENERAL. Prosiding jenayah ialah satu prosiding perundangan di mana seorang tertuduh. (Orang Kena Tuduh - OKT) adalah didakwa bagi sebarang kesalahan jenayah yang telah dilakukan olehnya. Sekiranya didapati bersalah, OKT akan dijatuhkan hukuman mengikut undang-undang. HIERARKI MAHKAMAH DI DALAM PERBICARAAN JENAYAH. Mahkamah Tinggi untuk membicarakan kes jenayah yang membawa hukuman mati. Mahkamah Sesyen untuk membicarakan kes jenayah kecuali yang membawa hukuman mati. Mahkamah Majistret bagi mendengar sebarang perbicaraan kes jenayah yang membawa hukuman penjara 10 tahun penjara ke bawah beserta denda. PIHAK-PIHAK DI DALAM PROSIDING. Majistret / Hakim.', source_title='apa itu prosiding jenayah?', url='https://www.kehakiman.gov.my/sites/default/files/documents/Infografik/Mewakili_Diri_Sendiri_di_dalam_Prosiding_Jenayah.pdf'), PerQueryResult(index='1.2.8', snippet='Peguam Jenayah: Sangat disarankan untuk mendapatkan nasihat awal, terutamanya jika telah dipanggil polis, ditahan atau menerima pertuduhan. • Polis: Untuk urusan laporan dan siasatan sahaja, bukan untuk nasihat undang- undang. Jika kamu terlibat secara langsung sama ada sebagai suspek, OKT atau mangsa, sebaiknya rujuk peguam seawal mungkin supaya hak kamu dilindungi dan langkah yang diambil tidak memudaratkan kedudukan kamu sendiri. Penafian: Nasihat ini bersifat umum dan tidak membentuk hubungan peguam-anak guam serta tidak mengikat saya sebagai penasihat undang-undang dalam kes ini. 3mo. 3. Profile photo of Wan Razak. Wan Razak Wan Dollah. M. Arif Azmi terbaeek. 3mo. Fauzul Azim. Kes apa ya dan di mana?', source_title='Assalamualaikum. Izin bertanya. Boleh saya tahu prosedur ...', url='https://www.facebook.com/groups/XXXXXXXXXX/posts/XXXXXXXXXX/', publication_time='February 02 2026', byline_age='2 months'), PerQueryResult(index='1.2.9', snippet='Polis membuka kertas siasatan kes bunuh terhadap pegawai tentera yang ditahan kerana disyaki memandu di bawah pengaruh alkohol sehingga ', source_title='Pegawai tentera berpangkat kapten, didakwa di Mahkamah ...', url='https://www.instagram.com/reel/DXvZ-A-vZpe/', publication_time='April 30 2026', byline_age='31 minutes', links='{Link: Instagram https://www.instagram.com/reel/DXvZ-A-vZpe/}'), PerQueryResult(index='1.2.10', snippet='Akta Polis 1967, Seksyen 3(3) menyebutkan bahawa antara tugas pasukan polis ialah mencegah, mengesan jenayah, menangkap dan mendakwa pesalah. Jabatan Siasatan Jenayah dipertanggungjawabkan untuk menyempurnakan tugas-tugas tersebut. Jabatan Siasatan Jenayah diketuai oleh seorang Pengarah yang berpangkat Komisioner Polis dan dibantu oleh empat orang Timbalan Pengarah dibawahnya, iaitu Timbalan Pengarah Siasatan Jenayah (Risikan / Operasi), Timbalan Pengarah Siasatan Jenayah (Siasatan / Perundangan), Timbalan Pengarah Siasatan Jenayah (Jenayah Terancang), Timbalan Pengarah Siasatan Jenayah (Forensik / Databank / DNA / Perancangan Strategi). Visi Membebaskan negara dan dan masyarakat Malaysia dari jenayah agar ...', source_title='Jabatan Siasatan Jenayah (JSJ) - PDRM', url='https://www.rmp.gov.my/infor-korporate/jabatan---jabatan/jabatan-siasatan-jenayah'), PerQueryResult(index='1.2.11', snippet='\'Saya menyesal tidak dapat buat apa-apa  isteri, anak te... Sep 16 ... pertuduhan membunuh bapanya di sebuah rumah di Kampung Bambom dua puluh ...', source_title='OKU mental didakwa bunuh bapa, mahkamah arah hantar ke ...', url='https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/', publication_time='April 30 2026', byline_age='3 hours', links='{Link: Facebook https://www.facebook.com/harianmetro/videos/oku-mental-didakwa-bunuh-bapa-mahkamah-arah-hantar-ke-hospital-bahagia-untuk-uji/XXXXXXXXXX/}'), PerQueryResult(index='1.2.12', snippet='Pegawai tentera yang memandu dalam keadaan mabuk sehingga menyebabkan kematian seorang lelaki warga Bangladesh di Lebuhraya Maju 23 April ', source_title='Kapten tentera didakwa atas pertuduhan bunuh warga ...', url='https://www.instagram.com/reel/DXvgaJYvisC/', publication_time='April 30 2026', byline_age='5 hours', links='{Link: Instagram https://www.instagram.com/reel/DXvgaJYvisC/}'), PerQueryResult(index='1.2.13', snippet='mahkamah ada set tarikh naik mahkamah sebab haritu jamin polis.. Boleh jadi ke bang kes saya digugurkan atau dibuang sebab tak dipanggil ', source_title='Pertuduhan Bersama dalam Kes Jenayah: Apa yang Perlu Tahu', url='https://www.tiktok.com/@lawyersresponse/video/7484189144885792018', publication_time='March 21 2025', byline_age='1 year 1 month', links='{Link: TikTok https://www.tiktok.com/@lawyersresponse/video/7484189144885792018}'), PerQueryResult(index='1.2.14', snippet='  yang dipercayai teman wanitanya, tahun lalu. ... Walau agak emosi, tapi saya sabar dengan apa yang berlaku," kata Mohd Firdaus Moktar, 45.', source_title='Polis mengesahkan suspek kes pukul isteri sehingga parah ...', url='https://www.instagram.com/reel/DXtgH3VlfGR/', publication_time='April 30 2026', byline_age='9 hours', links='{Link: Instagram https://www.instagram.com/reel/DXtgH3VlfGR/}'), PerQueryResult(index='1.2.15', data_type='image', image_height='509', image_width='603', scene_description='malaysian police officers in uniform at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX'), PerQueryResult(index='1.2.16', data_type='image', image_height='640', image_width='480', scene_description='man in a black t-shirt speaks into a microphone', image_url='https://www.tiktok.com/api/img/?itemId=7605927934997630228&location=0&aid=1988'), PerQueryResult(index='1.2.17', data_type='image', image_height='739', image_width='415', scene_description='polis malaysia poster', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.18', data_type='image', image_height='738', image_width='416', scene_description='man in a suit speaks into a microphone at an outdoor event', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3854537526896537788'), PerQueryResult(index='1.2.19', data_type='image', image_height='477', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756269121241'), PerQueryResult(index='1.2.20', data_type='image', image_height='639', image_width='480', scene_description='man in orange jumpsuit being escorted by police officers', image_url='https://www.tiktok.com/api/img/?itemId=7605912024597417236&location=0&aid=1988'), PerQueryResult(index='1.2.21', data_type='image', image_height='619', image_width='495', scene_description='four women wearing hijabs pose for a photo', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744525533272199714'), PerQueryResult(index='1.2.22', data_type='image', image_height='738', image_width='415', scene_description='indonesian police officers in blue uniforms', image_url='https://www.tiktok.com/api/img/?itemId=7573664556451384583&location=0&aid=1988'), PerQueryResult(index='1.2.23', data_type='image', image_height='386', image_width='686', scene_description='three men pose for a photo at an airport', image_url='https://i.ytimg.com/vi/CyhhqxQqY_0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl7-QFuuK9KF3SsU7tPTNRxRvL9g'), PerQueryResult(index='1.2.24', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756311172014'), PerQueryResult(index='1.2.25', data_type='image', image_height='739', image_width='415', scene_description='police officers in a police station', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.26', data_type='image', image_height='478', image_width='642', image_url='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3669940756319308938'), PerQueryResult(index='1.2.27', data_type='image', image_height='739', image_width='415', scene_description='man wearing a blue shirt is escorted by police officers', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.28', data_type='image', image_height='554', image_width='554', scene_description='man in a suit speaks into a microphone at a press conference', image_url='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=XXXXXXXXXX&get_thumbnail=1'), PerQueryResult(index='1.2.29', data_type='image', image_height='738', image_width='415', scene_description='mediacid pdrm force logo with police officer', image_url='https://www.tiktok.com/api/img/?itemId=7605965492003687687&location=0&aid=1988')])]{{MASKED_6}}}{{MASKED_5}}
+Step 1 Thought:
+
+Step 1 Response:
+Berdasarkan semakan dalam sejarah e-mel anda, tiada sebarang rekod rasmi mengenai pertuduhan jenayah ditemui [0.6.2].
+
+Maklumat yang berkaitan dengan rekod pihak berkuasa dalam e-mel anda hanyalah melibatkan perkara pentadbiran dan sivil berikut:
+*   **Pembayaran Saman Trafik**: Terdapat rekod pembayaran saman melalui sistem MyBayar Saman [0.6.3].
+*   **Permohonan Pasport**: Rekod mengenai permohonan pasport anda pada tahun 2022 [0.6.2].
+
+Aktiviti e-mel anda yang lain lebih tertumpu kepada urusan universiti (UKM), peringatan cukai, dan resit pembayaran harian [0.6.2]. Jika anda memerlukan semakan rasmi yang lebih tepat, anda boleh merujuk terus kepada pihak **Polis Diraja Malaysia (PDRM)** atau melalui portal **Semakmule** untuk semakan status berkaitan jenayah komersil [1.1.10].
+
+Adakah anda ingin saya membantu menyemak butiran lanjut mengenai saman trafik atau urusan rasmi yang lain?

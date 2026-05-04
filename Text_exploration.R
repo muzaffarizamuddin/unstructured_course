@@ -47,6 +47,8 @@ sentences #dataset sentences
 #Common function in package stringr
 str_length("This is STQD6114") #str_length()-gives the length of that string
 str_split(sentences," ") #str_split()-split the function by space & return the list
+str_split(ss," ")
+
 str_c("a","b","c") #combine string to become a long ist
 str_c("A",c("li","bu","ngry")) #combine A to each vector
 str_c("one for all","All for one",sep=",") #combine these string and separate by comma
