@@ -8,11 +8,12 @@ library(tm)
 library(wordcloud)
 library(stringr)
 
+data <- read.csv(file.choose(), fill=T, header=F) #this is for csv file
 data <- read.table(file.choose(), fill=T, header=F) #this is for text file
 data <- t(data)
-data_1 <- sapply(1:ncol(data),function(x)
-	trimws(paste(data[,x],collapse=" "),"right"))
-
+data_1 <- sapply(1:ncol(data),function(x){
+	trimws(paste(data[,x],collapse=" "),which="right")
+})
 
 str_view(data_1,"-") #check pattern
 str_view(data_1,".ab.")
@@ -25,10 +26,11 @@ mytext<- VectorSource(data_1)
 mycorpus <- VCorpus(mytext)
 
 #inspect corpus
-as.character(mycorpus[[2]])
+as.character(mycorpus[[3]])
 for (i in 1:5){
 	print(as.character(mycorpus[[i]]))
 }
+unname(sapply(mycorpus, as.character))
 
 #Data cleaning 
 toSpace <- content_transformer(function(x,pattern){ gsub(pattern, " ", x)})
@@ -48,6 +50,7 @@ unname(sapply(docs_1, as.character))
 unname(sapply(docs_1, as.character))[3:5]
 
 #------------Stemming---------
+install.packages("SnowballC")
 library(SnowballC)
 docs_2 <- tm_map(docs_1, stemDocument)
 inspect(docs_2)
@@ -60,7 +63,7 @@ docs_3 <- tm_map(docs_1, content_transformer(lemmatize_strings))
 unname(sapply(docs_3, as.character))
 
 #---------DTM-----
-
+docs_3<-docs_2
 dtm<- DocumentTermMatrix(docs_3)
 
 dtm<-DocumentTermMatrix(docs_3,control=list(wordLengths=c(2,20),  #only words with 2-20 letters	
@@ -76,19 +79,23 @@ freq[(ord)]
 #build df
 df<-data.frame(names(freq),freq)
 names(df)<-c("TERM","FREQ")
+df <- df[order(-df$FREQ),]#sort
 head(df)
 
 findFreqTerms(dtm,lowfreq=2) #find words with minimum frequency
-findAssocs(dtm,"statistic",0.1) #kaitan dgn perkataan lain
+findAssocs(dtm,"napoleon",0.1) #kaitan dgn perkataan lain
 
 
 #plot
-
+install.packages('ggplot2')
 library(ggplot2)
-Subs<- subset(df,FREQ>=1) #how to filter freq
-ggplot(df, aes(x=TERM,y=FREQ))+
+Subs<- subset(df,FREQ>=2) #how to filter freq
+ggplot(Subs, aes(x=reorder(TERM,-FREQ),y=FREQ))+
 	geom_bar(stat="identity")+
-	theme(axis.text.x=element_text(angle=90,hjust=1, vjust=0.5))
+	theme(axis.text.x=element_text(angle=90,hjust=1, vjust=0.5))+
+	ggtitle("Document term Frequency")+
+	xlab("Terms")
+	ylab("Frequency")
 
 library(wordcloud)
 wordcloud(names(freq),freq, min.freq=1) #in general
