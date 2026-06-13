@@ -93,6 +93,7 @@ install.packages("Spectrum")
 library(Spectrum)
 stats::spectrum(y, span=20, log=c("no"))
 
+#this function is important for test
 plot.frequency.spectrum <- function(X.k, xlimits=c(0,length(X.k))) {
 plot.data <- cbind(0:(length(X.k)-1), Mod(X.k))
 # TODO: why this scaling is necessary?
@@ -101,6 +102,8 @@ plot(plot.data, t="h", lwd=2, main="",
 xlab="Frequency (Hz)", ylab="Strength",
 xlim=xlimits, ylim=c(0,max(Mod(plot.data[,2]))))
 }
+
+
 layout(t(1:1))
 Yk <- fft(y)
 plot.frequency.spectrum(Yk)
@@ -114,6 +117,9 @@ windows(10,10)
 dynspec(tico, wl=1024, osc=T) #function seewave
 spectro(tico) #give spectrogram
 meanspec(tico) #obtain average for the whole time length
+
+
+#test focus here
 z = readWave("C:/Users/PC03/Desktop/Unstructured - Muz/Audio/babycry.wav")
 play(z)
 timer(z, f=22050, threshold=5, msmooth=c(100,0))
@@ -121,5 +127,6 @@ Zk <- fft(z@left)
 plot.frequency.spectrum(Zk)
 plot.frequency.spectrum(Zk[1:20000])
 dynspec(z, wl=1024, osc=T) #function seewave
-spectro(z) #give spectrogram
+spectro(z) #give spectrogram (STFT)
+layout(t(1:1))
 meanspec(z) #obtain average for the whole time length
