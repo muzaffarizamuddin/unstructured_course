@@ -122,11 +122,11 @@ meanspec(tico) #obtain average for the whole time length
 #test focus here
 z = readWave("C:/Users/PC03/Desktop/Unstructured - Muz/Audio/babycry.wav")
 play(z)
-timer(z, f=22050, threshold=5, msmooth=c(100,0))
+timer(z, f=22050, threshold=20, msmooth=c(50,0))
 Zk <- fft(z@left)
 plot.frequency.spectrum(Zk)
 plot.frequency.spectrum(Zk[1:20000])
 dynspec(z, wl=1024, osc=T) #function seewave
-spectro(z) #give spectrogram (STFT)
+spectro(z) #give spectrogram (STFT) short time fourier transform
 layout(t(1:1))
 meanspec(z) #obtain average for the whole time length
