@@ -11,17 +11,17 @@ plot.frequency.spectrum <- function(X.k, xlimits=c(0,length(X.k))) {
     xlim=xlimits, ylim=c(0,max(Mod(plot.data[,2]))))
 }
 
-z <- readWave("D:/github/unstructured_course/Audio/babycry.wav")
+z <- readWave("C:/Users/PC03/Desktop/Unstructured - Muz/Audio/babycry.wav")
 play(z)
 
 timer(z, f=22050, threshold=20, msmooth=c(50,0))
 
 Zk <- fft(z@left)
-plot.frequency.spectrum(Zk) 
+plot.frequency.spectrum(Zk)
 plot.frequency.spectrum(Zk[1:20000])      
 
 
-layout(t(1:1))                         
+layout(t(1:1))                        
 # reset layout before dynspec
 install.packages('rpanel')
 library(rpanel)
