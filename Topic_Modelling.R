@@ -142,7 +142,7 @@ tidy(dtm)%>%filter(document=="bigdata.txt")%>%
 
 
 
-
+ 
 
 
 

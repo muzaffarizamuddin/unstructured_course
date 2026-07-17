@@ -13,7 +13,7 @@ library(ggplot2)
 library(dplyr)
 library(tm)
 
-mytext<- DirSource("C:/Users/muzaffar.izamuddin/OneDrive - Polyaire Pty Ltd/Desktop/VS Code/Unstructured_Project_1/Unstructured_Project_1/News_Articles")
+mytext<- DirSource("D:/github/unstructured_course/Exam_Prep/News_Articles")
 mycorpus<-VCorpus(mytext)
 
 remove_footer_entirely <- content_transformer(function(x) {
@@ -398,3 +398,4 @@ print(table(h_assignments))
 cat("\n=== HDBSCAN Noise-Isolating Layout (0 = Unassigned Noise) ===\n")
 print(table(clustering.dbscan$cluster))
 
+ 
