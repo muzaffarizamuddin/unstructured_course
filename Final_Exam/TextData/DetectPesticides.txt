@@ -1,0 +1,24 @@
+TECH: This sensor could detect pesticides in fruits and vegetables within minutes
+By ETX Daily Up - June 10, 2022 @ 10:48pm
+Swedish researchers have developed an inexpensive and reproducible mini-sensor to quickly detect pesticides in fruits and vegetables.
+Swedish researchers have developed an inexpensive and reproducible mini-sensor to quickly detect pesticides in fruits and vegetables.
+DEVELOPED by scientists from the Karolinska Institute in Sweden, this nano-sensor is inspired by a method that has existed since the 1970s: surface-enhanced Raman scattering (SERS). This is a rather technical term for a process that consists in identifying the presence of biomolecules via a metallic surface.
+
+This technique could allow the presence of pesticides in fruits and vegetables to be easily detected, providing a fast and efficient way to protect human health from these harmful substances. The new research could also help reduce the costs of a laborious and complicated process, in large part because of its price.
+
+"The employment of SERS sensors in practical applications is hindered by high fabrication costs from processes with limited scalability, poor batch-to-batch reproducibility, substrate stability, and uniformity," explain the researchers in a paper outlining the technical process they developed.
+
+In fact, the technique of these Swedish scientists actually involved using a SERS nanosensor. The researchers deposited aerosols using flame spray to rapidly make SERS films. To test the effectiveness of the process, small amounts of pesticides were placed on apples and then collected in the laboratory with a swab before being analysed by the nano-sensor.
+
+MORE NEWS
+#TECH: Consumers still prefer deliveries and takeaways post lockdown -study
+#TECH: Hybrid scooters could help drive down CO2 emissions
+#TECH: These sensors measure air quality in the house
+#TECH: Type 10 times faster with this 3D keyboard
+Even with tiny amounts, the sensor developed by the Karolinska Institute was able to identify the presence of pesticide within five minutes. However, the effectiveness of this tool needs to be supported by larger scientific tests before it can be deployed on a larger scale.
+
+
+This isn't the first time technology has been at the centre of a bid to improve food safety. In December 2021, Taiwanese manufacturer Asus introduced a device that can help disinfect fruits and vegetables before cooking them by analysing the quality of the water they're rinsed in.
+
+
+Called "Asus PureGo," the device is automatically activated when immersed in water. If the module's indicator shows red or orange, your fruits or vegetables still need to be washed. When the indicator turns green, you can eat them!

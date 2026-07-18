@@ -1,0 +1,47 @@
+Using drones in disaster management
+
+As floods become more severe and frequent, the government and authorities must embrace and invest in advanced technologies like drones, which are revolutionising disaster management efforts.
+
+Drones can be used to pinpoint the location of victims, damaged sites, buildings, floodplains, emergency service resources and disaster relief sites.
+
+Unmanned aerial vehicles (UAVs), or aerial drones, and unmanned underwater vehicles are used worldwide for aerial photography, agricultural monitoring, infrastructure inspection, construction, media production, as well as in research and development.
+
+UAVs with sensors and advanced computer technologies able to fly in life-threatening conditions are used for large-scaled aerial mapping, providing aerial photographs of inaccessible disaster areas without risking human health and safety.
+
+They can fly to places manned aircraft cannot, flying at low altitudes, overcoming lack of visibility when there is cloud cover, resulting in images from drones being of higher resolution than satellites.
+
+Drones are used in search-and-rescue operations, including searching for victims in remote and inaccessible areas, as well as to transport medical supplies, first aid and food items to these areas.
+
+In 2005, the United States incorporated drones into disaster management operations to search for Hurricane Katrina survivors in Mississippi and to collect data during floods in Louisiana and Texas in 2016.
+
+The Philippines used them for mapping and disaster assessment in response to Typhoon Haiyan in 2013.
+
+India's National Disaster Relief Force used them during the Uttarakhand floods of 2015 to look for survivors, and Vanuatu used them when evaluating structural damage post-Cyclone Pam in 2015.
+
+The drones that were used relied on computer-vision technology to identify survivors and pattern-recognition technologies to determine which type of emergency assistance to facilitate.
+
+Emergency first responders have been leveraging the power of drones to quickly locate victims and get them the required support.
+
+FutureWater reported that on March 15, 2019, when Cyclone Idai hit the coast of Mozambique causing devastating damage and severe flooding in the region, drone imagery was used to localise stranded communities in areas inaccessible by road transport.
+
+This information was used to improve the routing of rescue boats for food supply and evacuation.
+
+Nextrendsasia reported that South Korea's National Forest Research Institute opened a Landslide Prediction Analysis Centre in May 2020 to better prepare for heavy rains every summer.
+
+South Korean police announced the use of drones in 2019 by hiring drone experts.
+
+Since 2013, South Korea's National Disaster Management Research Institute of the Interior and Safety Ministry has been using drones to investigate damage caused by typhoons and torrential rains.
+
+The South Korean government and private sector became partners in national disaster management, creating the Emergency Drone Operation Team for Disaster Response, comprising drone owners who hold official drone qualifications.
+
+For Malaysia, it is recommended that:
+
+AS drones are fast becoming standard operation in many emergency situations, the government should adopt this international best practice aimed at saving lives and protecting as well as reducing damage to infrastructures and properties;
+
+AS Malaysia has a number of drone specialists, the government could develop a directory of these specialists to invite and engage them to support in disaster management;
+
+SEVERAL drone suppliers are providing services to the economy. The government could invite these companies to deliver a presentation on their products and services to identify their suitability as partners in disaster management;
+
+THE Malaysian Communications and Multimedia Commission and Malaysia Digital Economy Corporation have portfolios in drone policies and regulations and should be invited by the government to discuss new policies and regulations that may be needed to support and facilitate the use of drones in disaster management; and,
+
+DISASTER management personnel from the National Disaster Management Agency (Nadma), police and armed forces could identify some personnel to undergo training on drones.

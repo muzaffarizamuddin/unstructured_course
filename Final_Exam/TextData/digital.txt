@@ -1,0 +1,45 @@
+Sharpening the edge for sustainable digital transformation
+
+HAVING embarked earnestly on the process of integrating digital technologies throughout all areas of its economy, Malaysia is now ready to elevate its digital transformation.
+
+Guided by national initiatives such as MyDIGITAL, the country has set its sights on raising digital adoption and connectivity to enable the transition towards becoming a high-income nation, with the Jendela plan instrumental in extending the reach of nationwide broadband coverage.
+
+Simultaneously, the country is gearing up for the rising demand for digital services by strengthening the country's cloud services infrastructure.
+
+Malaysia is already taking the right steps to boost more inclusive digital transformation within society and business. Yet, this is just one dimension to ensure digital transformation opportunities and benefits can be realized in the long term.
+
+This increased demand for digital services will result in more demand for data, and data centres, to manage these services. However, the resultant energy consumption will pressure the surrounding environment.
+
+As the nation doubles down on its digital transformation and enters the 5G era, Malaysia must ensure that its digital transformation infrastructure is managed sustainably. The key to this is harnessing edge computing which can optimize data management to be more efficient, even as data demands multiply.
+
+Modern networks and their infrastructures continue to evolve towards 5G to support Industry 4.0 technologies, such as Big Data, digital twins and the Internet of Things (IoT). This means the need to manage rapid increases in data transfer network capacity requirements is essential — especially in making the provision of low latency services and capacity increases more sustainable.
+
+This comes amid the significantly high growth in data creation and replication globally. This trend will continue over the next few years, requiring more energy consumption to manage and transport data at an alarming rate that is akin to the annual production of 50 nuclear power plants.
+
+This is why edge computing and edge intelligence will be essential components in Malaysia's future 5G networks. They will be enabling factors for a more sustainable digital infrastructure, as they can improve workload optimization, which would then significantly reduce energy consumption related to data transport.
+
+Essentially, edge computing refers to shifting portions of computation away from centralized servers and bringing them closer to where data is being created. The processing and analysis of raw data are done at the edge, while findings such as real-time insights, predictions or other types of actionable intelligence are sent to the data centre.
+
+With this in mind, modern edge computing can make data management more sustainable, underpinned by minimizing latency and reducing backhaul traffic volumes and costs. For instance, Edge intelligence can contribute to data usage optimization and reduce the amount of data needed to traverse the network, thereby lowering energy consumption and resultant carbon emissions.
+
+To illustrate, optimization of workloads will significantly reduce energy consumption related to data transport and decrease the need for physical transport, hence reducing CO2 output.
+
+Also, applications powered by new edge capabilities can meet user needs more capably through more sustainable use of environmental resources. This further reduces energy consumption and carbon emissions. Meanwhile, Predictions performed by edge intelligence algorithms show that data and computation can be brought closer to the sites where green energy is available, which will help to optimize green energy usage.
+
+To respond to the growing sustainability challenge posed by digital transformation, communications service providers (CSPs) in Malaysia should leverage edge systems that adopt the following best practices:
+
+Edge computing can improve energy efficiency, data security, and privacy in digital infrastructures exponentially. With cloud computing already transforming Malaysia's telecommunication landscape, CSPs in the country can access greater flexibility, lower overall costs and high service availability to meet growing demands on networks, sustainability, new applications and data by people and enterprises.
+
+Concurrently, it will also multiply greater economic activity by opening significant business opportunities for new edge application developers.
+
+Edge computing enables users to massively distribute, automated, cloud-native and secured foundation across geographically diverse locations. This is especially important as Malaysia seeks to ramp up nationwide digital transformation to boost the growth of Malaysian businesses, large and small.
+
+This also makes latency-sensitive applications and digital services sustainable and energy-efficient as their use is scaled up across the country.
+
+There should be increasing co-innovation and co-development among CSPs, webscalers and network technology companies in Malaysia. This is essential to create edge-based solutions that enable sustainable and automated data transfer across future digital infrastructure for consumers and enterprises in every industry.
+
+Malaysia is set to play a leading role in Southeast Asia's digital advancement, as it is already poised to become one of the region's prime data centre hubs. With its growing influence even outside the country itself, Malaysia must ensure that its digital transformation infrastructure and networks are managed sustainably.
+
+The increased advancements and expansion of edge computing in Malaysia are hence timely, given that the country will soon join the 5G era. The next era of connectivity will drive a new generation of intuitive applications that will run on a distributed architecture along with several components, but all find their place at the network edge.
+
+For CSPs in Malaysia looking to evolve their networks and help their customers unlock new digital opportunities and discover new revenue sources, it is imperative to adopt edge systems to ensure that scaling digital transformation will minimize the impact on the environment and society.
