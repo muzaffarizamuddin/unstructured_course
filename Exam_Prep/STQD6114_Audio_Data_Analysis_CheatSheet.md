@@ -296,3 +296,80 @@ Recognizing that pitch (frequency) and loudness (amplitude) are separate, indepe
 **Model Answer:**
 Audio recordings can capture highly personal and identifying information — a person's voice can be used for biometric identification, and recorded conversations may contain sensitive personal, medical, or business information. As audio analysis becomes more powerful (e.g., detecting emotion, identifying speakers, or even cloning voices), it raises real ethical concerns around consent (was the person aware they were being recorded/analyzed?), data security (how is sensitive voice data stored and protected?), and misuse (such as voice deepfakes used for fraud or impersonation). This means anyone working with audio data analysis has a responsibility to consider not just what is technically possible, but what is appropriate and legally compliant, particularly in sensitive contexts like healthcare, call centers, or surveillance.
 
+---
+---
+
+# PART 3 — Quick Definitions / Glossary-Style Questions
+
+*Short, direct "what is...?" style questions — the kind that test basic recall of terminology rather than full explanations. Keep these answers brief and precise.*
+
+---
+
+## Q31. What is a sound wave?
+
+**Model Answer:**
+A **sound wave** is a vibration that travels through a medium (like air) as variations in pressure over time, which we perceive as sound. It is typically represented as a waveform showing amplitude plotted against time.
+
+---
+
+## Q32. What is frequency?
+
+**Model Answer:**
+**Frequency** is the number of complete wave cycles that occur per second, measured in Hertz (Hz). In sound, frequency determines the **pitch** — a higher frequency is heard as a higher-pitched sound, and a lower frequency as a lower-pitched sound.
+
+---
+
+## Q33. What is amplitude?
+
+**Model Answer:**
+**Amplitude** is the magnitude (height) of a wave, representing how much a signal deviates from its baseline. In sound, amplitude determines the **loudness/volume** — a larger amplitude produces a louder sound, and a smaller amplitude produces a softer sound.
+
+---
+
+## Q34. What is wavelength?
+
+**Model Answer:**
+**Wavelength** is the physical distance between two corresponding points of consecutive wave cycles (e.g., peak to peak). Since sound waves travel at roughly the same speed, a **shorter wavelength** corresponds to a **higher frequency** (more waves passing a point per second), and a **longer wavelength** corresponds to a lower frequency.
+
+---
+
+## Q35. What is pitch?
+
+**Model Answer:**
+**Pitch** is the perceived highness or lowness of a sound, and it is determined by the **frequency** of the sound wave — higher frequency is perceived as higher pitch.
+
+---
+
+## Q36. What is loudness?
+
+**Model Answer:**
+**Loudness** is the perceived strength or volume of a sound, and it is determined by the **amplitude** of the sound wave — higher amplitude is perceived as louder sound.
+
+---
+
+## Q37. What is sampling rate?
+
+**Model Answer:**
+**Sampling rate** is the number of samples (measurements) taken of an analog signal per second when converting it to a digital signal, usually measured in Hz (e.g., 8000 Hz means 8000 samples per second). It determines the **time resolution** of the digitized signal — a higher sampling rate captures the original waveform more accurately.
+
+---
+
+## Q38. What is noise (in a signal)?
+
+**Model Answer:**
+**Noise** is any unwanted signal that is mixed in with the desired signal, degrading its quality — for example, static, hiss, or background interference in an audio recording. A major goal of signal processing is understanding, reducing, or removing noise.
+
+---
+
+## Q39. What is a filter (in signal processing)?
+
+**Model Answer:**
+A **filter** is a tool/technique used to remove or isolate specific portions of a signal — for example, removing unwanted high-frequency noise, or keeping only a certain frequency band of interest. Filters are applied in both the pre-processing (pre-filter) and post-processing (post-filter) stages of a DSP system.
+
+---
+
+## Q40. What is a spectrogram?
+
+**Model Answer:**
+A **spectrogram** is a visual plot showing how the frequency content of a signal changes over time, with time on one axis, frequency on the other, and color/intensity representing amplitude/strength. It is generated using the Short-Time Fourier Transform (STFT) and is widely used in speech, music, and bioacoustic analysis.
+

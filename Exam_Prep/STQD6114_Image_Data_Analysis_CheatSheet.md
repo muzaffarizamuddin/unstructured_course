@@ -412,3 +412,80 @@ Poor sampling or quantization is not just a cosmetic issue — it can have serio
 **Model Answer:**
 As organizations increasingly deal with unstructured data (text, audio, and images) alongside traditional tabular data, a data scientist who understands image data analysis is better equipped to work with a wider range of real business problems — from quality inspection in manufacturing, to analyzing customer-uploaded photos in retail, to processing scanned documents. Even a basic understanding of concepts like image enhancement, compression, and feature extraction helps a data scientist communicate effectively with specialized computer vision teams, evaluate whether an image-based solution is feasible, and recognize how image preprocessing choices (e.g., poor quality input images) can silently affect the performance of any downstream model.
 
+---
+---
+
+# PART 3 — Quick Definitions / Glossary-Style Questions
+
+*Short, direct "what is...?" style questions — the kind that test basic recall of terminology rather than full explanations. Keep these answers brief and precise.*
+
+---
+
+## Q31. What is a pixel?
+
+**Model Answer:**
+A **pixel** ("picture element") is the smallest addressable unit of a digital image. Each pixel has a location (row, column position) and a value representing intensity (for grayscale) or a combination of Red, Green, and Blue values (for color).
+
+---
+
+## Q32. What is image resolution?
+
+**Model Answer:**
+**Resolution** refers to the amount of spatial detail an image contains — essentially, how many pixels make up the image (e.g., width × height). Higher resolution means more pixels and more captured detail; it is determined by the **sampling** stage of digitization, often expressed in dpi (dots per inch) for scanned/printed images.
+
+---
+
+## Q33. What is bit depth?
+
+**Model Answer:**
+**Bit depth** is the number of bits used to represent the intensity (gray level or color) of each pixel, and it determines the number of distinct levels available — e.g., 8-bit gives 256 gray levels (2⁸), while 3-bit gives 8 gray levels (2³). It is the result of the **quantization** stage of digitization; higher bit depth means smoother gradients and less banding.
+
+---
+
+## Q34. What is RGB?
+
+**Model Answer:**
+**RGB** stands for **Red, Green, Blue** — the three primary color channels used to represent a color image. Each pixel in an RGB image is represented by a vector of three values, gR(x,y), gG(x,y), gB(x,y), which combine to produce the full range of visible colors.
+
+---
+
+## Q35. What is a grayscale image, and how is it different from a binary image?
+
+**Model Answer:**
+A **grayscale image** represents each pixel with a single intensity value (typically 0–255 for an 8-bit image), showing shades from black to white. A **binary image** is more restrictive — each pixel can only take one of **two** values (0 or 1), representing pure black or pure white, with no shades of gray in between.
+
+---
+
+## Q36. What is image contrast?
+
+**Model Answer:**
+**Contrast** describes the difference in intensity between an image (or a point) and its surrounding/neighboring area — it is what makes objects or features visually distinguishable from their background. An image with high contrast has gray levels spread across the full available range; an image with low contrast has gray levels clustered closely together, giving a flat, dull appearance.
+
+---
+
+## Q37. What is image brightness?
+
+**Model Answer:**
+**Brightness** refers to the overall lightness or darkness of an image, generally corresponding to the average intensity (gray level) of its pixels. A histogram concentrated near 0 indicates a dark image; a histogram concentrated near 255 (for an 8-bit image) indicates a bright/light image.
+
+---
+
+## Q38. What is noise in an image?
+
+**Model Answer:**
+**Noise** in an image refers to random, unwanted variations in pixel intensity that do not represent the true scene — it can be introduced during acquisition (e.g., poor lighting, sensor limitations) or transmission. Noise reduces image quality and clarity, and removing/managing it is a key goal of image restoration and enhancement techniques.
+
+---
+
+## Q39. What is a filter (or kernel) in image processing?
+
+**Model Answer:**
+A **filter** (or **kernel**) is a small matrix applied across an image, pixel by pixel, to modify it in some way — for example, smoothing/blurring, sharpening, or detecting edges. Filters are a core tool for both noise removal and feature enhancement in the spatial domain.
+
+---
+
+## Q40. What is image segmentation?
+
+**Model Answer:**
+**Segmentation** is the process of partitioning a digital image into multiple regions or segments so that pixels belonging to the same object or region of interest are grouped together and separated from the background or other objects. It is a key step that bridges low-level image processing and higher-level object recognition.
+
